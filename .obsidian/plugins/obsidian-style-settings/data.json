@@ -1,0 +1,5 @@
+{
+  "baseline-style@@radius-modifier": 0.5,
+  "baseline-style@@density-modifier": 1.25,
+  "baseline-style@@anim-motion-baseline": "cubic-bezier(0.33, 1, 0.68, 1)"
+}

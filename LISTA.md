@@ -1,0 +1,1 @@
+The [[LCC]] Interstellar and Superluminal Transport Authority is the governing body of all [[Interstellar Transportation]] across the [[Local Cluster]]. The [[LISTA]] are the sole approving body for [[Isolation]] technology, and more specifically [[Isolation#Isolation Drive]]s.

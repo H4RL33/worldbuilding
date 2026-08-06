@@ -1,0 +1,1 @@
+The Local Cluster Coallition, or [[LCC]], is the primary governing body of the [[Local Cluster]].

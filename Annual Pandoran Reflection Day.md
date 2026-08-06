@@ -1,0 +1,1 @@
+[[Annual Pandoran Reflection Day]] is a national holiday installed by the [[Democratic Republic of Earth]] to remember those tens-of-thousands lost during the [[Collapse of Pandora (1964)]].

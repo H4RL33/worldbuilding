@@ -1,0 +1,3 @@
+Westlake & Welsh Stellar Propulsion Labs, or [[WWSPL]], is one of the largest manufacturers and original developers of [[Isolation]] technology and [[Isolation#Isolation Drive]]s.
+
+Founded in 2806 by joint-founders and partners Olivia Westlake and Harley Welsh, [[WWSPL]] revolutionised [[Humanity]] by developing cost-effective propulsion systems for intrastellar transport; leading to the [[Sol Boom]] of 2833.
