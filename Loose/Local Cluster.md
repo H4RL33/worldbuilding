@@ -1,1 +1,0 @@
-The [[Local Cluster]] is a small open stellar cluster containing 35 known stars and is the primary setting of the world.

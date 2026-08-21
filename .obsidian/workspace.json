@@ -6,28 +6,6 @@
       {
         "id": "85906765d383a66f",
         "type": "tabs",
-        "dimension": 49.04336734693877,
-        "children": [
-          {
-            "id": "27aaaf7e069e70bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loose/Computer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2c4ed1e85b12cc13",
-        "type": "tabs",
-        "dimension": 50.95663265306123,
         "children": [
           {
             "id": "fe75b4c8b9676812",
@@ -39,6 +17,40 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e0dcef32776c41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f7c5a1ccad3ff6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loose/Vault Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vault Index"
+            }
+          },
+          {
+            "id": "8e079cf2039d1bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loose/Glossary/Isolation Drives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isolation Drives"
             }
           }
         ]
@@ -210,35 +222,43 @@
   },
   "active": "fe75b4c8b9676812",
   "lastOpenFiles": [
-    "Loose/Computer.md",
+    "Loose/Vault Index.md",
+    "Loose/Technology/Computer.md",
+    "Loose/Technology/Isolation.md",
+    "Loose/Glossary/LISTA.md",
+    "Loose/Glossary/Isolation Drives.md",
+    "Isolation Drive.md",
+    "ITA.md",
+    "Loose/Places/Pandora.md",
+    "Loose/Society/Present Day.md",
+    "Loose/Technology/Nuke.md",
+    "RIC.md",
+    "Loose/Organizations/ISCIA.md",
+    "Loose/Organizations/SLO.md",
+    "Loose/Glossary/Spacecraft.md",
+    "Loose/Glossary/Cathode Ray Tube.md",
+    "Loose/Glossary/Life Support.md",
+    "Loose/Glossary/Magnetic Tape.md",
+    "Loose/Glossary/Gilbert's Law.md",
+    "Loose/Glossary/Gilbert Effect.md",
+    "Loose/Glossary/ISA.md",
+    "Loose/Glossary/IRA.md",
+    "Loose/Glossary/ICA.md",
+    "Loose/Organizations/IHCIC.md",
+    "ISC Score.md",
+    "ISC Census.md",
+    "IMT.md",
+    "Loose/People/Characters",
+    "Loose/Glossary",
+    "Loose/Culture",
+    "Loose/Technology",
+    "Loose/Events",
+    "Loose/Society",
+    "Loose/Places",
+    "Loose/People",
+    "Loose/Organizations",
     "Technology.base",
-    "Loose/The Underground Pandoran Fight-Club Scandal (1955).md",
-    "Loose/WWSPL.md",
-    "Loose/SLO.md",
-    "Loose",
-    "Loose/Isolation.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Loose/Pandora.md",
-    "Loose/HPPO.md",
-    "Loose/Lilac.md",
-    "Loose/Collapse of Pandora (1964).md",
-    "Loose/Eden.md",
-    "Loose/Democratic Republic of Earth.md",
-    "Loose/Extraterrestrial Intelligent Species.md",
-    "Loose/Annual Pandoran Reflection Day.md",
-    "Loose/Violet.md",
-    "Loose/The Violet Narcotics Scandal (1962).md",
-    "Loose/Lisa Sims.md",
-    "Loose/Nuke.md",
     "_assets/pandora.png",
-    "_assets/lilac.png",
-    "_assets",
-    "Loose/Present Day.md",
-    "Loose/Interstellar Transportation.md",
-    "Loose/Humanity.md",
-    "Loose/LISTA.md",
-    "Loose/Local Cluster.md",
-    "Loose/LCC.md"
+    "_assets/lilac.png"
   ]
 }

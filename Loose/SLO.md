@@ -1,1 +1,0 @@
-Stelo, currency code [[SLO]], is the standard currency across the [[Local Cluster]], and is governed by the [[Stelo Overwatch]].

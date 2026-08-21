@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#iscia  ",
+      "color": {
+        "a": 1,
+        "rgb": 11889112
+      }
+    },
+    {
+      "query": "tag:#isolation  ",
+      "color": {
+        "a": 1,
+        "rgb": 3683995
+      }
+    },
+    {
+      "query": "tag:#technology  ",
+      "color": {
+        "a": 1,
+        "rgb": 14393190
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.426572722697534,
+  "repelStrength": 10.4618986802895,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6666666666666666,
+  "linkDistance": 305,
+  "scale": 0.70233196159122,
   "close": true
 }
