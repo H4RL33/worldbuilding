@@ -26,6 +26,31 @@ All of this is further explored in the [[Alternate Timeline]], which follows the
 ## Isolation Drive
 [[Isolation]] is typically manifested by the physical machines generally referred to as [[Isolation Drives]]. [[Isolation Drives]] can come in many different sizes and capabilities, with distinct purposes, pros, and cons. Developing [[Isolation Drives]] is approved by the [[ITA]] and [[ICA]].
 
+### Sizes and Grades
+
+[[ITA]]-certified [[Isolation Drives]] are designated by a **size** number and an **efficiency grade** letter. A **2A** drive, for example, is a size-2 drive of the highest efficiency grade.
+
+The size determines how much mass a drive can isolate and the strongest field it is certified to hold:
+
+| Size | Typical vessels | Field load | Certified maximum χ | HIIG capacitor bank |
+| --- | --- | --- | --- | --- |
+| **1** | fighters, shuttles, personal transports | up to about 250 t | ≈ 19 | none |
+| **2** | explorers, couriers, traders, gunships | up to about 5,000 t | ≈ 22.5 | fitted |
+| **3** | heavy ferries, frigates, regional freighters | up to about 500,000 t | ≈ 21.5 | fitted |
+| **4** | capital ships, battleships, trunk freighters | up to about 5,000,000 t | ≈ 20.5 | fitted |
+
+A drive must enclose its vessel's entire mass, including any docked craft, so a carrier's drive also carries its fighters. A larger drive than necessary will work, but it is heavier and bulkier, and sizes 3 and 4 are certified to lower maxima than size 2.
+
+Size-1 drives carry no capacitor banks capable of a high-impulse transition. Light craft therefore cannot enter a [[RIC]] and are effectively bound to their home system unless carried aboard a larger vessel.
+
+The efficiency grade, from **A** (most efficient) to **G** (least efficient), scales the power the drive draws for a given field (see [[#40. Energy Requirements]]):
+
+| Grade | A | B | C | D | E | F | G |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Relative power | 0.66 | 0.76 | 0.87 | 1.00 | 1.15 | 1.32 | 1.52 |
+
+When a vessel's reactor is the limit, an A-grade drive holds a field roughly twice as fast as a G-grade drive of the same size. At equal speed, it draws well under half the power and rejects well under half the heat. No grade can exceed the certified maximum of its size, so grade refines a vessel's performance but cannot substitute for size.
+
 ## Glossary
 ### Object
 In the context of [[Isolation]], an [[#Object]] typically describes the composite unit that is being isolated; i.e. a spacecraft, including any loose objects and people it contains.
@@ -1839,7 +1864,7 @@ $$
 \varepsilon\approx10^{-3}  
 $$
 
-The anchoring loss is drawn from the IGICs at collapse, so a drive will not engage unless its capacitors can cover the anchoring loss at its planned destination.
+The anchoring loss is scaled by the drive's efficiency grade (see [[#Sizes and Grades]]). It is drawn from the IGICs at collapse, so a drive will not engage unless its capacitors can cover the anchoring loss at its planned destination.
 
 For two planets whose orbital velocities differ by 20 km/s, a 500-tonne vessel must supply roughly 100 GJ. A 200,000-tonne freighter must supply roughly 40 TJ, which can take its reactor many minutes to accumulate.
 
@@ -1906,9 +1931,11 @@ The power required to hold an isolation field rises exponentially with its chron
 
 $$  
 \boxed{  
-P_I=P_0\,\frac{m}{m_0}\,e^{\alpha(\chi-\chi_0)}  
+P_I=k_g\,P_0\,\frac{m}{m_0}\,e^{\alpha(\chi-\chi_0)}  
 }  
 $$
+
+Where (k_g) is the drive's efficiency-grade factor, equal to 1 for a D-grade drive (see [[#Sizes and Grades]]).
 
 With the empirical constants:
 
@@ -1927,10 +1954,10 @@ Nearly all of this power is rejected as waste heat, so radiator capacity limits 
 The greatest separation a vessel's generator can hold from an available power (P) is:
 
 $$  
-\chi_{\mathrm{gen}}=\chi_0+\frac1\alpha\ln\left(\frac{P}{P_0}\,\frac{m_0}{m}\right)  
+\chi_{\mathrm{gen}}=\chi_0+\frac1\alpha\ln\left(\frac{P}{k_g\,P_0}\,\frac{m_0}{m}\right)  
 $$
 
-Each drive also carries a certified maximum. Light craft are usually fitted with drives certified only for the inner system.
+Each drive also carries the certified maximum of its size, and light craft are fitted with size-1 drives certified only for travel within a system.
 
 The energy needed per unit of distance travelled is:
 
@@ -1940,7 +1967,7 @@ $$
 
 Holding a stronger isolation field therefore costs more for each light year covered, while greater physical velocity reduces that cost.
 
-For example, a 500-tonne explorer with a 5 GW reactor reaches about χ = 22. It covers 4.4 ly in roughly three hours, using about 60 TJ, or under a kilogram of fusion fuel.
+For example, a 500-tonne explorer with a 5 GW reactor and a D-grade drive reaches about χ = 22. It covers 4.4 ly in roughly three hours, using about 60 TJ, or under a kilogram of fusion fuel.
 
 A 200,000-tonne freighter with a 50 GW stellarator can only reach about χ = 19. The same crossing would take it nearly two weeks, which is why heavy shipping depends on RICs.
 

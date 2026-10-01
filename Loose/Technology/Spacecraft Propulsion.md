@@ -11,7 +11,7 @@ Electric propulsion is the standard high-efficiency [[Spacecraft]] propulsion ar
 
 | System | Role |
 | --- | --- |
-| **Stellarator fusion generator** | Primary onboard electrical power source. Large freighters commonly carry substantial stellarators, with a major radius of around **20 m** on the largest merchant vessels. |
+| **Stellarator fusion generator** | Primary onboard electrical power source. Large freighters commonly carry substantial stellarators, with a major radius of around **20 m** on the largest merchant vessels. The very largest vessels carry several (see [[Spacecraft Classes]]). |
 | **High-power fusion-electric main engines** | Primary cruise propulsion: electromagnetic or plasma thrusters, especially MPD-like designs. |
 | **Hall-effect thrusters** | Routine attitude control, translation, docking and slow reorientation, distributed around the hull in clusters. |
 | **Chemical reaction-control system** | An independent emergency system for rapid attitude changes, collision avoidance, docking aborts, loss of electrical power or recovery from tumbling. |
@@ -69,7 +69,7 @@ Fusion fuel is needed only occasionally: even an interstellar crossing under an 
 
 Bigger ships remain attractive because energy and extraterrestrial construction materials are abundant. Enormous vessels, however, become increasingly cumbersome and concentrate more cargo and capital into a single failure. Such ships are economically analogous to ULCVs: trunk-route carriers connecting a relatively small number of major inhabited and industrial centres, usually through [[RIC|RICs]].
 
-A large vessel relying on fusion-electric propulsion alone cannot land on a world with significant gravity. Haulers, capital ships and other large vessels stay in space, and cargo and crew move to and from the surface aboard ferries and landing craft.
+A large vessel relying on fusion-electric propulsion alone cannot land on a world with significant gravity. Haulers, capital ships and other large vessels stay in space, and cargo and crew move to and from the surface aboard ferries and landing craft. Vessel sizes, landing limits and drive sizes are set out in [[Spacecraft Classes]].
 
 ## Open Questions
 
