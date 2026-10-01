@@ -52,7 +52,7 @@ Accelerating large quantities of air slowly is therefore the most power-efficien
 
 ### High-Energy Chemical Propulsion
 
-Some craft instead use chemical propulsion built on a high-energy-density compound or storage technology. A chemical single-stage-to-orbit craft for an Earth-like world needs an exhaust velocity of roughly 8 to 10 km/s, roughly twice that of the best conventional propellants. *The compound or technology is yet to be named.* Physically plausible candidates include stabilised metallic hydrogen, trapped atomic hydrogen and metastable helium.
+Some craft instead use chemical propulsion built on a high-energy-density compound or storage technology. A chemical single-stage-to-orbit craft for an Earth-like world needs an exhaust velocity of roughly 8 to 10 km/s, roughly twice that of the best conventional propellants. The compound or technology is yet to be named (see [[#Open Questions]]).
 
 ## Design Limits
 
@@ -70,3 +70,7 @@ Fusion fuel is needed only occasionally: even an interstellar crossing under an 
 Bigger ships remain attractive because energy and extraterrestrial construction materials are abundant. Enormous vessels, however, become increasingly cumbersome and concentrate more cargo and capital into a single failure. Such ships are economically analogous to ULCVs: trunk-route carriers connecting a relatively small number of major inhabited and industrial centres, usually through [[RIC|RICs]].
 
 A large vessel relying on fusion-electric propulsion alone cannot land on a world with significant gravity. Haulers, capital ships and other large vessels stay in space, and cargo and crew move to and from the surface aboard ferries and landing craft.
+
+## Open Questions
+
+- **The high-energy chemical compound or technology.** Its name, nature and origin are undecided. It must give an exhaust velocity of roughly 8 to 10 km/s. Physically plausible candidates include stabilised metallic hydrogen, trapped atomic hydrogen and metastable helium.
