@@ -36,6 +36,12 @@ An independent crew typically lives aboard a medium-to-large vessel, which stays
 
 Navigation computers plan these trips in full, from the larger vessel's approach and parking to the transport's departure, the moment to collapse its field and a safe descent corridor, so a crew is rarely kept waiting.
 
+The larger vessel parks wherever suits the world and the vessel: in a high orbit, or in a powered hold far out where the world's gravity is weak, on the side facing the landing site (see [[Space Stations]] for why far out is cheaper).
+
+The return journey is just as routine. The transport climbs on its air-breathing engines and coasts to the edge of the atmosphere, where it forms its isolation field. A short chemical burn turns its course towards the mothership. Its navigation computer then slows the field as it closes, collapsing it a few hundred metres from the mothership, before matching velocity and docking automatically. A crew can also call its unattended mothership to a more convenient position for the pickup. The whole journey takes minutes.
+
+Navigation computers offer three levels of assistance, which a pilot can change at any moment: guidance cues only, assisted flight, in which the computer flies burns once the pilot confirms them, and full autopilot. Before any landing, they also check whether the vessel could take off again from that world, and warn the pilot if it could not.
+
 A vessel that lands where it cannot take off again is not lost outright. Its crew can lighten it until it can lift, leave in its docked transport or call one of the rescue services that answer distress beacons. The grounded hull is then salvaged where it lies, converted into a surface installation or written off by its insurers. Many such hulls have become landmarks in their own right.
 
 Light craft carry size-1 drives without the capacitor banks needed for a high-impulse isolation transition. They cannot enter a RIC and are effectively bound to their home system, so they travel between the stars only aboard larger vessels such as carriers and transports.
