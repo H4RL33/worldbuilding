@@ -34,6 +34,10 @@ To pass through a [[RIC]], a vessel must clear its rings. The [[ITA]] standard l
 
 An independent crew typically lives aboard a medium-to-large vessel, which stays in orbit while a docked light personal transport carries them to and from the surface.
 
+Navigation computers plan these trips in full, from the larger vessel's approach and parking to the transport's departure, the moment to collapse its field and a safe descent corridor, so a crew is rarely kept waiting.
+
+A vessel that lands where it cannot take off again is not lost outright. Its crew can lighten it until it can lift, leave in its docked transport or call one of the rescue services that answer distress beacons. The grounded hull is then salvaged where it lies, converted into a surface installation or written off by its insurers. Many such hulls have become landmarks in their own right.
+
 Light craft carry size-1 drives without the capacitor banks needed for a high-impulse isolation transition. They cannot enter a RIC and are effectively bound to their home system, so they travel between the stars only aboard larger vessels such as carriers and transports.
 
 Trunk freighters are economically analogous to ULCVs. They link a small number of major centres through RICs and mostly serve stations and industry in space. Moving their cargo to and from a world's surface is slow by comparison: unloading two million tonnes takes several hundred heavy-ferry trips. Ferry fleets and orbital transfer stations are therefore central to every major port.

@@ -7,6 +7,8 @@ Electric propulsion is the standard high-efficiency [[Spacecraft]] propulsion ar
 
 > **Fusion supplies the power; electric propulsion supplies the endurance; chemical propulsion supplies the urgency.**
 
+Every vessel carries all three. Its high-energy chemical system draws on the compound described under [[#High-Energy Chemical Propulsion]].
+
 ## Architecture
 
 | System | Role |
@@ -14,7 +16,7 @@ Electric propulsion is the standard high-efficiency [[Spacecraft]] propulsion ar
 | **Stellarator fusion generator** | Primary onboard electrical power source. Large freighters commonly carry substantial stellarators, with a major radius of around **20 m** on the largest merchant vessels. The very largest vessels carry several (see [[Spacecraft Classes]]). |
 | **High-power fusion-electric main engines** | Primary cruise propulsion: electromagnetic or plasma thrusters, especially MPD-like designs. |
 | **Hall-effect thrusters** | Routine attitude control, translation, docking and slow reorientation, distributed around the hull in clusters. |
-| **Chemical reaction-control system** | An independent emergency system for rapid attitude changes, collision avoidance, docking aborts, loss of electrical power or recovery from tumbling. |
+| **High-energy chemical system** | High-thrust bursts of 2–3 g from the high-energy compound, fitted to every vessel. Used for rapid course changes under isolation, orbital corrections, collision avoidance, docking aborts, emergency braking, loss of electrical power and recovery from tumbling. |
 | **Radiator system** | Rejects waste heat from the reactor, generators, power electronics, electric engines and [[Isolation#40. Energy Requirements\|isolation drive]]. |
 
 This is **fusion-electric** propulsion, not direct fusion propulsion. The stellarator produces electrical power, which is distributed to separate electric thrusters that accelerate reaction mass. Direct fusion rockets could exist as a distinct and more demanding technology, but ordinary merchant propulsion does not need them.
@@ -27,7 +29,7 @@ For normal braking, a ship rotates 180° on its attitude thrusters and runs its 
 
 Hall thrusters are extremely efficient and can run whenever electrical power is available, so ordinary spacecraft rarely spend chemical propellant on routine manoeuvring. On very large freighters, rotations may take tens of seconds or minutes.
 
-The chemical system is deliberately **not a complete backup propulsion system**. Chemical propellant is far too mass-intensive to reproduce the velocity change available from the electric drive. It provides high instantaneous control authority when efficiency is irrelevant: it can correct a dangerous closing velocity or arrest an uncontrolled rotation, but it cannot replace the main engines partway through a journey.
+The chemical system is deliberately **not a complete backup propulsion system**. Chemical propellant is far too mass-intensive to reproduce the velocity change available from the electric drive. A vessel typically carries 5 to 20 per cent of its mass in the high-energy compound, enough for roughly 0.5 to 2 km/s of velocity change. It provides high instantaneous control authority when efficiency is irrelevant: it can correct a dangerous closing velocity, arrest an uncontrolled rotation or turn a course quickly under isolation, but it cannot replace the main engines partway through a journey.
 
 ## High-Thrust Propulsion
 
@@ -52,7 +54,7 @@ Accelerating large quantities of air slowly is therefore the most power-efficien
 
 ### High-Energy Chemical Propulsion
 
-Some craft instead use chemical propulsion built on a high-energy-density compound or storage technology. A chemical single-stage-to-orbit craft for an Earth-like world needs an exhaust velocity of roughly 8 to 10 km/s, roughly twice that of the best conventional propellants. The compound or technology is yet to be named (see [[#Open Questions]]).
+Every vessel carries a high-energy-density compound or storage technology for its chemical system. Some craft also use it as their principal means of lift. A chemical single-stage-to-orbit craft for an Earth-like world needs an exhaust velocity of roughly 8 to 10 km/s, roughly twice that of the best conventional propellants. The compound or technology is yet to be named (see [[#Open Questions]]).
 
 ## Design Limits
 

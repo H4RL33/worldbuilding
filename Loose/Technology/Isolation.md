@@ -51,6 +51,18 @@ The efficiency grade, from **A** (most efficient) to **G** (least efficient), sc
 
 When a vessel's reactor is the limit, an A-grade drive holds a field roughly twice as fast as a G-grade drive of the same size. At equal speed, it draws well under half the power and rejects well under half the heat. No grade can exceed the certified maximum of its size, so grade refines a vessel's performance but cannot substitute for size.
 
+### Navigating Under Isolation
+
+Isolation multiplies a vessel's physical velocity (§3), so an isolated vessel travels in the direction of that velocity, not the direction its bow happens to point. Turning the hull costs nothing. Changing course means changing physical velocity, which costs roughly the vessel's physical speed multiplied by the angle turned.
+
+Small corrections are cheap and powerful at range: a course change of a thousandth of a degree moves a vessel's arrival point by some 2,600 km over an astronomical unit. Large turns are expensive, which is why vessels align before forming a field and why the high-energy chemical system is used for sharp course changes.
+
+#### Approaching a World
+
+A vessel arrives with the physical velocity it carried (§37). Navigators therefore aim off a world's limb, not at its centre. At the point of closest approach the vessel's velocity lies parallel to the surface below. If its speed there lies between the circular and escape speeds for that distance, the vessel is already in a stable orbit when the field collapses. For an Earth-like world, about 1 km/s suits an orbit 400,000 to 800,000 km from its centre, and about 3 km/s an orbit 44,000 to 89,000 km out.
+
+Navigation computers calculate a recommended approach for the vessel's speed. They show the pilot where to steer and when to collapse the field, along with any correction burn that remains. A pilot who collapses the field heading straight at a world begins to fall towards it. Close in, there may be no time to reach orbit, and the crew must make an emergency landing with whatever thrust and atmosphere they have, if the vessel is able to land at all.
+
 ## Glossary
 ### Object
 In the context of [[Isolation]], an [[#Object]] typically describes the composite unit that is being isolated; i.e. a spacecraft, including any loose objects and people it contains.
