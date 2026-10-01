@@ -1800,7 +1800,164 @@ These principles separate Isolation from ordinary acceleration, conventional tim
 
 ---
 
-#### 37. Presently Undefined Physics
+#### 37. Gravitational Anchoring
+
+Physical velocity is always measured relative to some reference. For an isolated object, that reference is the field's **anchor frame**: the non-rotating frame of the body whose gravity dominates where the field was established. Near a planet or moon, that is the planet or moon. In interplanetary space, it is the star. Between the stars, it is the local stellar drift.
+
+An isolation field keeps its anchor frame for as long as it is maintained, however far its effective translation carries it.
+
+When the field collapses, the object's physical velocity is re-expressed relative to the anchor frame of its new location:
+
+$$  
+\boxed{  
+\mathbf v_{\mathrm{after}}=\mathbf v_{\mathrm{before}}  
+\quad\text{(each relative to its own anchor frame)}  
+}  
+$$
+
+An object therefore arrives with its velocity relative to its new surroundings, not with the velocity of its point of departure.
+
+If (\Delta\mathbf u) is the velocity of the new anchor frame relative to the old one, the momentum difference:
+
+$$  
+\Delta\mathbf p=m\,\Delta\mathbf u  
+$$
+
+is exchanged with the gravitating bodies themselves, much as in a gravitational slingshot. This is the "separately-defined boundary interaction" anticipated in §6.1.
+
+The exchange is not perfectly efficient. The generating machinery must supply an **anchoring loss**:
+
+$$  
+\boxed{  
+E_{\mathrm{anchor}}=\varepsilon\,\tfrac12 m\left|\Delta\mathbf u\right|^2  
+}  
+$$
+
+Empirically:
+
+$$  
+\varepsilon\approx10^{-3}  
+$$
+
+The anchoring loss is drawn from the IGICs at collapse, so a drive will not engage unless its capacitors can cover the anchoring loss at its planned destination.
+
+For two planets whose orbital velocities differ by 20 km/s, a 500-tonne vessel must supply roughly 100 GJ. A 200,000-tonne freighter must supply roughly 40 TJ, which can take its reactor many minutes to accumulate.
+
+---
+
+#### 38. Isolation Boundaries and the Environmental Limit
+
+Isolation cannot be sustained within a gravitating body's **isolation boundary**. That boundary is the top of the body's atmosphere, its surface where it has no atmosphere, or a star's photosphere.
+
+Beyond the boundary, the greatest sustainable chronospatial separation rises with distance:
+
+$$  
+\boxed{  
+\chi_{\mathrm{env}}=\ln\frac{d_b}{\lambda_I}  
+}  
+$$
+
+Where:
+
+- (d_b) is the distance from the nearest isolation boundary;
+    
+- (\lambda_I\approx1.4\ \mathrm{km}) is the **isolation length**, an empirical constant.
+    
+
+| Distance from the nearest boundary | Greatest sustainable χ | CIR |
+| --- | --- | --- |
+| 100 km | ≈ 4.3 | ≈ 1:70 |
+| 10,000 km | ≈ 8.9 | ≈ 1:7,000 |
+| 1,000,000 km | ≈ 13.5 | ≈ 1:7×10⁵ |
+| 1 AU | ≈ 18.5 | ≈ 1:1×10⁸ |
+| 250 AU | ≈ 24 | ≈ 1:2.6×10¹⁰ |
+| 675 AU | ≈ 25 | ≈ 1:7×10¹⁰ |
+| 1 ly | ≈ 29.5 | ≈ 1:7×10¹² |
+
+No generator, however powerful, can isolate within an atmosphere. Every approach to a world's surface is made under conventional flight. High-CIR infrastructure such as RICs must terminate far from its stars.
+
+---
+
+#### 39. Slew Rate and Stopping Distance
+
+A generator can change its own uniform field no faster than its **slew rate**:
+
+$$  
+\left|\frac{d\chi}{dt}\right|\leq\Gamma_{\max},\qquad\Gamma_{\max}\approx0.7\ \mathrm{s^{-1}}  
+$$
+
+This differs from the hazardous transitions of §§9–12. Those arise when an object's own isolation state differs from its surroundings. A uniform, self-generated field carries the vessel and everything within it together.
+
+Approaching a body lowers (\chi_{\mathrm{env}}) at the rate (V/d_b), and the field must keep pace. Effective translation is therefore limited by the distance to the nearest boundary:
+
+$$  
+\boxed{  
+V\leq\Gamma_{\max}\,d_b  
+}  
+$$
+
+An approaching vessel slows exponentially, falling by a factor of e roughly every 1.4 s, and a departing vessel accelerates in the same way. Because of this, a crossing between two worlds of the same system takes under a minute, almost regardless of the distance involved.
+
+---
+
+#### 40. Energy Requirements
+
+The power required to hold an isolation field rises exponentially with its chronospatial separation and in proportion to the mass it encloses:
+
+$$  
+\boxed{  
+P_I=P_0\,\frac{m}{m_0}\,e^{\alpha(\chi-\chi_0)}  
+}  
+$$
+
+With the empirical constants:
+
+$$  
+\alpha\approx1.25,\qquad P_0\approx5\ \mathrm{GW},\qquad m_0=500\ \mathrm{t},\qquad\chi_0=22  
+$$
+
+Equivalently:
+
+$$  
+P_I\propto m\,N^{\alpha}  
+$$
+
+Nearly all of this power is rejected as waste heat, so radiator capacity limits a sustained field as much as reactor output does.
+
+The greatest separation a vessel's generator can hold from an available power (P) is:
+
+$$  
+\chi_{\mathrm{gen}}=\chi_0+\frac1\alpha\ln\left(\frac{P}{P_0}\,\frac{m_0}{m}\right)  
+$$
+
+Each drive also carries a certified maximum. Light craft are usually fitted with drives certified only for the inner system.
+
+The energy needed per unit of distance travelled is:
+
+$$  
+\frac{E}{D}=\frac{P_I}{Nv}\propto\frac{m\,N^{\alpha-1}}{v}  
+$$
+
+Holding a stronger isolation field therefore costs more for each light year covered, while greater physical velocity reduces that cost.
+
+For example, a 500-tonne explorer with a 5 GW reactor reaches about χ = 22. It covers 4.4 ly in roughly three hours, using about 60 TJ, or under a kilogram of fusion fuel.
+
+A 200,000-tonne freighter with a 50 GW stellarator can only reach about χ = 19. The same crossing would take it nearly two weeks, which is why heavy shipping depends on RICs.
+
+---
+
+#### 41. Typical Operating Envelope
+
+| Application | Typical χ | Typical CIR | Limited by |
+| --- | --- | --- | --- |
+| Ship drives, within a system | up to ≈ 18 | up to ≈ 1:7×10⁷ | environment (§§38–39) |
+| Ship drives, between the stars | ≈ 19 to 22.5 | ≈ 1:2×10⁸ to 1:6×10⁹ | generator power and certification (§40) |
+| Open RICs | ≈ 21 to 22 | ≈ 1:1.3×10⁹ to 1:3.6×10⁹ | the drives of the ships using them |
+| RICs | ≈ 24 to 25 | ≈ 1:2.6×10¹⁰ to 1:7.2×10¹⁰ | ring generators and terminus placement |
+
+---
+
+#### 42. Presently Undefined Physics
 
 The following remain intentionally undefined:
 
@@ -1810,7 +1967,7 @@ The following remain intentionally undefined:
     
 - the generator-source term (S_i);
     
-- the precise energy required to establish a given (N);
+- the physical origin of the empirical energy law (§40);
     
 - whether the provisional gradient-energy term is fundamental;
     
@@ -1830,7 +1987,7 @@ The following remain intentionally undefined:
     
 - exact frequency shifts at moving boundaries;
     
-- interaction between Isolation and gravitation;
+- the mechanism behind gravitational anchoring (§37) and isolation boundaries (§38);
     
 - quantum systems spanning multiple CIRs;
     

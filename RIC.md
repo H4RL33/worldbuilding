@@ -63,15 +63,23 @@ Our journey through the **RIC** is mostly automated. We can sit back and relax w
 
 The whole point of a **RIC** is that, because it is a permanent installation with effectively no practical mass or volume restrictions comparable to those imposed on a spacecraft, it can maintain **CIRs** far greater than a lone ship could reasonably sustain.
 
-Most **RICs** operate somewhere between approximately **1:2000 and 1:4000**, though this varies substantially depending on the route, age, traffic volume, and infrastructure involved.
+Most **RICs** operate at a chronospatial separation of roughly **χ = 24 to 25**, corresponding to **CIRs** of approximately **1:2.6×10¹⁰ to 1:7.2×10¹⁰**, though this varies substantially depending on the route, age, traffic volume, and infrastructure involved.
 
-One of the largest **RICs** in the Immediate Stellar Cluster presently operates at approximately **1:5582**, while an experimental new approach to isolation generation is being tested with the intention of approaching **1:10000**.
+One of the most capable **RICs** in the Immediate Stellar Cluster presently operates at approximately **χ = 25 (1:7.2×10¹⁰)**, while an experimental new approach to isolation generation is being tested with the intention of approaching **χ = 26 (roughly 1:2×10¹¹)**.
 
-Because a ship's transit time depends both on its local velocity and the **RIC**'s **CIR**, two ships travelling through the same conduit may have considerably different journey times. Increasing a conduit from 1:5000 to 1:10000 would, all else being equal, approximately halve the amount of time required for the same ship to cross it.
+Because a ship's transit time depends both on its local velocity and the **RIC**'s **CIR**, two ships travelling through the same conduit may have considerably different journey times. Increasing a conduit from 1:3×10¹⁰ to 1:6×10¹⁰ (raising its χ by ln 2 ≈ 0.69) would, all else being equal, approximately halve the amount of time required for the same ship to cross it.
 
-For our theoretical journey between Sol and Alpha Centauri, the **RIC** operates at approximately **1:2239**. Our actual travel time will therefore depend on the velocity profile assigned to our ship by the **SLCT**, along with acceleration, deceleration, and traffic constraints within the conduit.
+For a ship assigned a steady acceleration (a) for the first half of the conduit and an equal deceleration for the second, the crossing time is approximately:
 
-As we are a small ship in this example with only a few crew members, we will likely bed down or engage in recreation during much of the journey. A larger vessel, such as one of the major interstellar freighters carrying several hundred crew members, would instead operate in shifts to maintain the ship throughout transit.
+$$  
+T\approx2\sqrt{\frac{D}{N\,a}}  
+$$
+
+Where (D) is the conduit's length. The synchronisation-lock cycles at either end add to this.
+
+For our theoretical journey between Sol and Alpha Centauri, the **RIC** operates at approximately **χ = 24.3 (1:3.6×10¹⁰)**. Our actual travel time will therefore depend on the velocity profile assigned to our ship by the **SLCT**, along with acceleration, deceleration, and traffic constraints within the conduit.
+
+As we are a small ship in this example with only a few crew members, our crossing will take a little under an hour, which we will likely spend at our stations or in recreation. A larger vessel, such as one of the major interstellar freighters carrying several hundred crew members, accelerates far more gently. It may spend several hours in the conduit and would instead operate in shifts to maintain the ship throughout transit.
 
 ### RIC Structure
 
@@ -88,6 +96,16 @@ This creates a constant "topping-off" behaviour across the whole conduit rather 
 The rings themselves are not completely stationary. Every ring is fitted with a suite of **Hall-effect reaction-control thrusters**, allowing it to perform small adjustments to its position and orientation.
 
 This is necessary because a **RIC** does not connect two perfectly stationary points in space. Stellar systems move relative to one another, while the individual rings themselves are subject to gravitational effects and positional drift. The conduit therefore behaves as an enormous controlled formation rather than a rigid physical structure, with individual rings continuously performing station-keeping to preserve the geometry of the wider **RIC**.
+
+### Alignment and Termini
+
+A **RIC** always follows the shortest direct path between its two termini.
+
+Its **CIR** can only be sustained far from gravitating bodies (see [[Isolation#38. Isolation Boundaries and the Environmental Limit|Isolation Boundaries]]), so its termini lie in the outer reaches of their systems, typically some 250 to 700 AU from the star. Ships make the inner-system leg to and from a terminus under their own isolation drives.
+
+As the stars drift, the termini slide and the conduit swings to follow them. Over a 25-light-year conduit, a relative stellar drift of 1 km/s turns the line by only about a ten-millionth of a radian per year. The rings near its midpoint drift about a tenth of an AU per year. The rings' Hall-effect thrusters absorb this continuously, so no ring is ever relocated in a single move.
+
+Very rarely, a third star drifts close enough to a conduit's line that the conduit would have to pass where its **CIR** cannot be sustained. The **RIC** must then be split into two conduits, each terminating in the intruding star's system. A split is a major and costly undertaking, and an event that the traffic, economies, and governments of the affected systems must reckon with.
 
 ### Power Transmission
 
@@ -179,7 +197,7 @@ The lock will open, and we can be on our way.
 
 ## Open RICs (ORICs)
 
-**Open RICs (ORICs)** are typically **RICs** operating at relatively low **CIRs**, generally somewhere between approximately **1:1000 and 1:2000**, which do **not** require every ship to use a synchronisation lock.
+**Open RICs (ORICs)** are typically **RICs** operating at relatively low **CIRs**, generally around **χ = 21 to 22 (roughly 1:1.3×10⁹ to 1:3.6×10⁹)**, within reach of capable ships' own isolation drives, which do **not** require every ship to use a synchronisation lock.
 
 Instead, there are two ways in and out of an **ORIC**:
 
