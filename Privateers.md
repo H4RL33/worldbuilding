@@ -1,7 +1,7 @@
 ---
-
 ---
-A **Privateer** is an adjacent-class citizen of the [[ISCIA]].
+
+A __Privateer__ is an adjacent-class citizen of the [[ISCIA]].
 
 They are typically existing citizens of the [[ISCIA]] that voluntarily enlisted to become a privateer.
 
@@ -23,4 +23,4 @@ Social prejudices against Privateers typically result in them having a harder ti
 
 Having a higher grade on the [[Privateer Index]] is a very beneficial thing for Privateers looking for high-paying contracts, long-term work, insurance, and private security, as it typically increases chances of acceptance.
 
-A Privateer's [[Privateer Index]] grade is increased by measuring their individual economic output, so completing contracted work, mining and refining raw material, discovering new celestial bodies, bounty hunting, and a myriad of other potential careers all contribute to a Privateer's grade. Furthermore, a Privateer's grade improvement can be boosted by completing contracted work well before the deadline, or by staying consistent with the same employer, as this shows reliability and dedication. 
+A Privateer's [[Privateer Index]] grade is increased by measuring their individual economic output, so completing contracted work, mining and refining raw material, discovering new celestial bodies, bounty hunting, and a myriad of other potential careers all contribute to a Privateer's grade. Furthermore, a Privateer's grade improvement can be boosted by completing contracted work well before the deadline, or by staying consistent with the same employer, as this shows reliability and dedication.

@@ -1,5 +1,5 @@
 ---
-tags:
-  - iscia
+tags: [iscia]
 ---
-## ISC Certification Authority
+
+## ISCIA Certification Authority

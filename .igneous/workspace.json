@@ -3,20 +3,37 @@
   "tabs": [
     {
       "kind": "note",
-      "path": "Loose/Technology/Isolation.md",
+      "path": "Loose/Organizations/ISCIA/IDA.md",
       "mode": "live",
-      "cursor": 7981,
+      "cursor": 22,
       "scroll": 0.0,
       "pinned": false,
       "back": [
-        "Loose/Vault Index.md",
-        "Loose/Technology/Isolation.md",
-        "Loose/Culture/Violet.md",
+        "Loose/Organizations/ISCIA/Committees/IHCIC.md",
+        "Loose/Organizations/HPPO.md",
         "Loose/Events/Collapse of Pandora (1964).md",
-        "Loose/Events/The Violet Narcotics Scandal (1962).md",
-        "2026-10-05.md",
-        "Loose/Technology/Computer.md",
-        "Loose/Technology/Nuke.md"
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/Committees/IHCIC.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Privateers.md",
+        "Starports.md",
+        "Loose/Organizations/ISCIA/Committees/IHCIC.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/ITA.md",
+        "Loose/Organizations/ISCIA/ISC Census.md",
+        "Loose/Organizations/ISCIA/ITA.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Starports.md",
+        "Loose/Organizations/ISCIA/ITA.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/ICRCM.md",
+        "Loose/Organizations/ISCIA/IMT.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/Committees/IHCIC.md"
       ]
     }
   ],
@@ -28,20 +45,141 @@
     "expanded": [
       "_assets",
       "Loose",
-      "Loose/Events",
-      "Loose/Technology"
+      "Loose/Organizations",
+      "Loose/Organizations/ISCIA",
+      "Loose/Organizations/ISCIA/Committees"
     ]
   },
   "inspector": {
-    "visible": false,
+    "visible": true,
     "view": "backlinks",
-    "width": 300
+    "width": 398
   },
   "recentlyClosed": [
     {
+      "kind": "base",
+      "path": "Technology.base",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
       "kind": "note",
-      "path": "RIC.md",
-      "cursor": 373,
+      "path": "Loose/Glossary/Isolation Drives.md",
+      "mode": "reading",
+      "cursor": 28,
+      "scroll": 0.0,
+      "pinned": false,
+      "back": [
+        "RIC.md",
+        "Loose/People/Humanity.md",
+        "Loose/People/Lisa Sims.md",
+        "Loose/People/Humanity.md",
+        "RIC.md",
+        "Loose/Vault Index.md",
+        "Loose/Technology/Isolation.md"
+      ]
+    },
+    {
+      "kind": "image",
+      "path": "_assets/lilac.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
+      "kind": "image",
+      "path": "_assets/pandora.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
+      "kind": "image",
+      "path": "_assets/pandora.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
+      "kind": "image",
+      "path": "_assets/lilac.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
+      "kind": "note",
+      "path": "Loose/Organizations/ISCIA/ISCIA.md",
+      "mode": "live",
+      "cursor": 259,
+      "scroll": 0.0,
+      "pinned": false,
+      "back": [
+        "Loose/Technology/Nuke.md",
+        "Loose/Technology/Isolation.md",
+        "RIC.md",
+        "Privateers.md",
+        "RIC.md",
+        "Privateers.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/ICRCM.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/ICRCM.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/ICRCM.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/IHCIC.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/IHCIC.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/IHCIC.md",
+        "Loose/Organizations/ISCIA/IMT.md",
+        "Loose/Organizations/ISCIA/IHCIC.md",
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/IHCIC.md",
+        "Loose/Organizations/ISCIA/IMT.md",
+        "Loose/Organizations/ISCIA/IRA.md"
+      ]
+    },
+    {
+      "kind": "image",
+      "path": "_assets/lilac.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
+      "kind": "image",
+      "path": "_assets/pandora.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
+      "kind": "note",
+      "path": "Privateers.md",
+      "mode": "live",
+      "cursor": 296,
+      "scroll": 0.0,
+      "pinned": false,
+      "back": [
+        "Loose/Organizations/ISCIA/IDA.md",
+        "Loose/Organizations/ISCIA/Committees/IHCIC.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/Committees/IHCIC.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/Committees/IHCIC.md",
+        "Loose/Organizations/ISCIA/ICA.md",
+        "Loose/Organizations/ISCIA/ICRCM.md",
+        "Loose/Organizations/ISCIA/Committees/IHCIC.md"
+      ]
+    },
+    {
+      "kind": "image",
+      "path": "_assets/pandora.png",
+      "cursor": 0,
       "scroll": 0.0,
       "pinned": false
     },
@@ -58,21 +196,40 @@
       "cursor": 0,
       "scroll": 0.0,
       "pinned": false
+    },
+    {
+      "kind": "image",
+      "path": "_assets/lilac.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
     }
   ],
   "recentFiles": [
-    "Loose/Technology/Isolation.md",
-    "Loose/Technology/Nuke.md",
-    "Loose/Technology/Computer.md",
-    "2026-10-05.md",
-    "Loose/Events/The Violet Narcotics Scandal (1962).md",
-    "Loose/Events/Collapse of Pandora (1964).md",
-    "Loose/Culture/Violet.md",
-    "_assets/pandora.png",
-    "Loose/Vault Index.md",
-    "Loose/Technology/Spacecraft Propulsion.md",
+    "Loose/Organizations/ISCIA/IDA.md",
+    "Loose/Organizations/ISCIA/Committees/IHCIC.md",
+    "Loose/Organizations/ISCIA/ICA.md",
+    "Loose/Organizations/ISCIA/IMT.md",
+    "Loose/Organizations/ISCIA/ICRCM.md",
+    "Loose/Organizations/ISCIA/ITA.md",
     "_assets/lilac.png",
+    "_assets/pandora.png",
+    "Starports.md",
+    "Loose/Organizations/ISCIA/ISC Census.md",
+    "Privateers.md",
+    "Loose/Events/Collapse of Pandora (1964).md",
+    "Loose/Organizations/HPPO.md",
+    "Loose/Organizations/ISCIA/ISCIA.md",
+    "Loose/Organizations/ISCIA/IRA.md",
+    "Loose/Glossary/Isolation Drives.md",
     "RIC.md",
-    "Technology.base"
+    "Loose/Technology/Isolation.md",
+    "Technology.base",
+    "Loose/Technology/Nuke.md",
+    "Loose/Vault Index.md",
+    "Loose/People/Humanity.md",
+    "Loose/People/Lisa Sims.md",
+    "ISC Census.md",
+    "IMT.md"
   ]
 }

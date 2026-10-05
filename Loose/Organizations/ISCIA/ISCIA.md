@@ -1,9 +1,11 @@
 ---
-tags:
-  - iscia
+tags: [iscia]
 ---
+
 The [[Immediate Stellar Cluster]] Interstellar Authority, or [[ISCIA]] (often pronounced "Eye-Sha"), is the primary governing body of the [[Immediate Stellar Cluster]].
+
 ## Structure
+
 The [[ISCIA]] has several key branches:
 - Executive
 - Judicial
@@ -12,7 +14,7 @@ The [[ISCIA]] has several key branches:
 - Regulation
 - Surveyance
 
-Each branch contains any number of focused **Committees** that each hold responsibility over their chosen topic appropriate to their branch. For example, the [[IHCIC]] is a Committee focused on the regulation of ergonomic design and human safety when using computers. Furthermore, each branch holds it's own small-scale administrative head that is responsible for the creation or dissolution of committees on it's branch, these typically constitute members of other committees on that branch that have been nominated for an administrative seat and won following an internal election of all committee members in that branch.
+Each branch contains any number of focused __Committees__ that each hold responsibility over their chosen topic appropriate to their branch. For example, the [[IHCIC]] is a Committee focused on the regulation of ergonomic design and human safety when using computers. Furthermore, each branch holds it's own small-scale administrative head that is responsible for the creation or dissolution of committees on it's branch, these typically constitute members of other committees on that branch that have been nominated for an administrative seat and won following an internal election of all committee members in that branch.
 
 Committees often consist of high-profile individuals, industry leaders and government officials, and often outreach to the public when dealing with a matter.
 

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "enabled": false,
+  "syncInterval": 5,
+  "pullInterval": 5,
+  "pullOnOpen": true,
+  "push": true,
+  "method": "merge",
+  "commitMessage": "vault backup: {{date}}",
+  "dateFormat": "YYYY-MM-DD HH:mm:ss"
+}

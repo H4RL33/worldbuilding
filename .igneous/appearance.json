@@ -1,9 +1,11 @@
 {
   "version": 1,
   "colorScheme": "system",
-  "textFont": null,
+  "textFont": "Noto Serif",
   "monospaceFont": null,
   "fontScale": 1.0,
+  "fontSize": 14.0,
   "readableLineLength": true,
+  "lineWidth": 900,
   "editorTheme": "catppuccin"
 }

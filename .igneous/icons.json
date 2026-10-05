@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "icons": {
+    "Loose/Organizations/ISCIA/Committees/IHCIC.md": "computer-symbolic",
+    "Loose/Organizations/ISCIA/ICA.md": "application-certificate-symbolic",
+    "Loose/Organizations/ISCIA/IDA.md": "com.kagi.Orion-symbolic",
+    "Loose/Organizations/ISCIA/IMT.md": "preferences-system-time-symbolic",
+    "Loose/Organizations/ISCIA/ITA.md": "io.github.pieterdd.RcloneShuttle-symbolic",
+    "Privateers.md": "adw-avatar-default-symbolic"
+  },
+  "colors": {
+    "Loose/Culture": "#f66151",
+    "Loose/Events": "#ffbe6f",
+    "Loose/Glossary": "#f9f06b",
+    "Loose/Organizations": "#8ff0a4",
+    "Loose/Organizations/ISCIA": "#c061cb",
+    "Loose/People": "#99c1f1",
+    "Loose/Places": "#dc8add"
+  }
+}
