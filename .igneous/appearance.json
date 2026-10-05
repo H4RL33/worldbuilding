@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "colorScheme": "system",
+  "textFont": null,
+  "monospaceFont": null,
+  "fontScale": 1.0,
+  "readableLineLength": true,
+  "editorTheme": "catppuccin"
+}

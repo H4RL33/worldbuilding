@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "lintOnSave": true,
+  "rules": {
+    "add-blank-line-after-yaml": {
+      "enabled": true,
+      "options": {}
+    },
+    "blockquote-style": {
+      "enabled": true,
+      "options": {}
+    },
+    "compact-yaml": {
+      "enabled": true,
+      "options": {}
+    },
+    "consecutive-blank-lines": {
+      "enabled": true,
+      "options": {}
+    },
+    "dedupe-yaml-array-values": {
+      "enabled": true,
+      "options": {}
+    },
+    "emphasis-style": {
+      "enabled": true,
+      "options": {
+        "style": "asterisk"
+      }
+    },
+    "empty-line-around-blockquotes": {
+      "enabled": true,
+      "options": {}
+    },
+    "empty-line-around-code-fences": {
+      "enabled": true,
+      "options": {}
+    },
+    "empty-line-around-horizontal-rules": {
+      "enabled": true,
+      "options": {}
+    },
+    "empty-line-around-math-blocks": {
+      "enabled": true,
+      "options": {}
+    },
+    "empty-line-around-tables": {
+      "enabled": true,
+      "options": {}
+    },
+    "header-increment": {
+      "enabled": true,
+      "options": {
+        "startAtH2": true
+      }
+    },
+    "heading-blank-lines": {
+      "enabled": true,
+      "options": {}
+    },
+    "headings-start-line": {
+      "enabled": true,
+      "options": {}
+    },
+    "line-break-at-document-end": {
+      "enabled": true,
+      "options": {}
+    },
+    "move-math-block-indicators-to-their-own-line": {
+      "enabled": true,
+      "options": {}
+    },
+    "ordered-list-style": {
+      "enabled": true,
+      "options": {
+        "numberStyle": "ascending",
+        "preserveStart": true
+      }
+    },
+    "remove-multiple-spaces": {
+      "enabled": true,
+      "options": {}
+    },
+    "space-after-list-markers": {
+      "enabled": true,
+      "options": {}
+    },
+    "strong-style": {
+      "enabled": true,
+      "options": {
+        "style": "underscore"
+      }
+    },
+    "trailing-spaces": {
+      "enabled": true,
+      "options": {}
+    },
+    "unordered-list-style": {
+      "enabled": true,
+      "options": {
+        "listStyle": "-"
+      }
+    }
+  },
+  "ignoreFolders": [],
+  "ignoreFiles": []
+}

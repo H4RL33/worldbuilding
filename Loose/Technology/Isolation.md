@@ -1,10 +1,11 @@
 ---
-tags:
-  - isolation
+tags: [isolation]
 ---
 
 [[Isolation]] is the process of segregating an [[#Object]]'s space and time [[#Stream]]s.
+
 ## Early Discovery
+
 [[Isolation]] was discovered accidentally by [[William Gilbert]] in 1602, during his investigations into magnetism and electrical attraction.
 
 Using an apparatus composed of magnetised iron, rotating masses, rubbed amber and a mechanically regulated oscillator, [[William Gilbert|Gilbert]] observed a minute discrepancy between two otherwise equivalent pendulums. The pendulum enclosed within the apparatus completed marginally fewer oscillations than the external control, despite no apparent difference in its construction, motion, elevation or surroundings.
@@ -18,32 +19,35 @@ The quantitative relationship governing the strength of the [[Gilbert Effect]] b
 The [[Gilbert Effect]] nevertheless acquired considerable notoriety among experimentalists, as unintended manifestations could distort clocks, oscillators, chemical reactions and other precision measurements, invalidating experiments that would otherwise have appeared successful.
 
 ## Impact on Technology
+
 [[Isolation]] and the early discovery of the [[Gilbert Effect]] held a profound impact on [[Humanity]]'s technological development.
 
 In short, reliable reproduction of the [[Gilbert Effect]] and further experimentation to achieve greater [[Isolation]] effects drew the attention of governments world-wide to further explore the possibilities and implications of [[Isolation]] technology; which in-turn drew in much greater investment into energy, computation, precision engineering, vacuum physics, photochemistry and high-energy experimentation.
 
 All of this is further explored in the [[Alternate Timeline]], which follows the development of [[Humanity]] from the original divergence point of 1602 to the [[Present Day]].
+
 ## Isolation Drive
+
 [[Isolation]] is typically manifested by the physical machines generally referred to as [[Isolation Drives]]. [[Isolation Drives]] can come in many different sizes and capabilities, with distinct purposes, pros, and cons. Developing [[Isolation Drives]] is approved by the [[ITA]] and [[ICA]].
 
 ### Sizes and Grades
 
-[[ITA]]-certified [[Isolation Drives]] are designated by a **size** number and an **efficiency grade** letter. A **2A** drive, for example, is a size-2 drive of the highest efficiency grade.
+[[ITA]]-certified [[Isolation Drives]] are designated by a __size__ number and an __efficiency grade__ letter. A __2A__ drive, for example, is a size-2 drive of the highest efficiency grade.
 
 The size determines how much mass a drive can isolate and the strongest field it is certified to hold:
 
 | Size | Typical vessels | Field load | Certified maximum χ | HIIG capacitor bank |
 | --- | --- | --- | --- | --- |
-| **1** | fighters, shuttles, personal transports | up to about 250 t | ≈ 19 | none |
-| **2** | explorers, couriers, traders, gunships | up to about 5,000 t | ≈ 22.5 | fitted |
-| **3** | heavy ferries, frigates, regional freighters | up to about 500,000 t | ≈ 21.5 | fitted |
-| **4** | capital ships, battleships, trunk freighters | up to about 5,000,000 t | ≈ 20.5 | fitted |
+| __1__ | fighters, shuttles, personal transports | up to about 250 t | ≈ 19 | none |
+| __2__ | explorers, couriers, traders, gunships | up to about 5,000 t | ≈ 22.5 | fitted |
+| __3__ | heavy ferries, frigates, regional freighters | up to about 500,000 t | ≈ 21.5 | fitted |
+| __4__ | capital ships, battleships, trunk freighters | up to about 5,000,000 t | ≈ 20.5 | fitted |
 
 A drive must enclose its vessel's entire mass, including any docked craft, so a carrier's drive also carries its fighters. A larger drive than necessary will work, but it is heavier and bulkier, and sizes 3 and 4 are certified to lower maxima than size 2.
 
 Size-1 drives carry no capacitor banks capable of a high-impulse transition. Light craft therefore cannot enter a [[RIC]] and are effectively bound to their home system unless carried aboard a larger vessel.
 
-The efficiency grade, from **A** (most efficient) to **G** (least efficient), scales the power the drive draws for a given field (see [[#40. Energy Requirements]]):
+The efficiency grade, from __A__ (most efficient) to __G__ (least efficient), scales the power the drive draws for a given field (see [[#40. Energy Requirements]]):
 
 | Grade | A | B | C | D | E | F | G |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -64,21 +68,28 @@ A vessel arrives with the physical velocity it carried (§37). Navigators theref
 Navigation computers calculate a recommended approach for the vessel's speed. They show the pilot where to steer and when to collapse the field, along with any correction burn that remains. A pilot who collapses the field heading straight at a world begins to fall towards it. Close in, there may be no time to reach orbit, and the crew must make an emergency landing with whatever thrust and atmosphere they have, if the vessel is able to land at all.
 
 ## Glossary
+
 ### Object
+
 In the context of [[Isolation]], an [[#Object]] typically describes the composite unit that is being isolated; i.e. a spacecraft, including any loose objects and people it contains.
+
 ### Stream
+
 In the context of [[Isolation]], a [[#Stream]] is an [[#Object]]'s relative space, time, or spacetime fields. Typically, the [[#]]
 
 ## Technicalities
+
 ### Isolation — Mathematical and Physical Framework
+
 #### Scope
-**Isolation** is the controlled segregation of spatial progression from temporal progression.
+
+__Isolation__ is the controlled segregation of spatial progression from temporal progression.
 
 The purpose of this framework is to describe Isolation mathematically without requiring a microscopic theory of its underlying metaphysical mechanism.
 
 The authoritative definition is:
 
-> A **Chronospatial Isolation Ratio** of **1:N** permits (N) times as much spatial progression for a given amount of temporal progression as would occur under otherwise-equivalent conditions in **Typical Spacetime**, without itself changing the rate of ordinary local temporal processes.
+> A __Chronospatial Isolation Ratio__ of __1:N__ permits (N) times as much spatial progression for a given amount of temporal progression as would occur under otherwise-equivalent conditions in __Typical Spacetime__, without itself changing the rate of ordinary local temporal processes.
 
 Isolation is therefore neither conventional time dilation nor conventional superluminal acceleration.
 
@@ -92,33 +103,38 @@ It modifies the mapping between physical motion and spatial progression.
 
 Typical Spacetime is defined as:
 
-$$  
+$$
+  
 \mathrm{CIR}=1:1  
 $$
 
 An isolated region has:
 
-$$  
+$$
+  
 \mathrm{CIR}=1:N  
 $$
 
 Where:
 
-$$  
+$$
+  
 N\geq1  
 $$
 
-The value (N) is the **Isolation magnitude**.
+The value (N) is the __Isolation magnitude__.
 
 Thus:
 
-$$  
+$$
+  
 N=1  
 $$
 
 Represents Typical Spacetime, while:
 
-$$  
+$$
+  
 N>1  
 $$
 
@@ -128,13 +144,15 @@ The ratio is not mathematically interpreted as (1/N). The useful Isolation magni
 
 Accordingly:
 
-$$  
+$$
+  
 1:4000  
 $$
 
 Represents greater Isolation than:
 
-$$  
+$$
+  
 1:2000  
 $$
 
@@ -144,15 +162,17 @@ $$
 
 Because useful CIRs may span many orders of magnitude, a logarithmic representation is useful:
 
-$$  
+$$
+  
 \boxed{\chi=\ln N}  
 $$
 
-Where (\chi) is the **chronospatial separation**.
+Where (\chi) is the __chronospatial separation__.
 
 The mismatch between two regions may then be expressed as:
 
-$$  
+$$
+  
 \boxed{  
 \Delta\chi
 
@@ -166,19 +186,22 @@ This makes proportional differences equivalent.
 
 For example:
 
-$$  
+$$
+  
 1:1\rightarrow1:2  
 $$
 
 And:
 
-$$  
+$$
+  
 1:1000\rightarrow1:2000  
 $$
 
 Both possess:
 
-$$  
+$$
+  
 \Delta\chi=\ln2  
 $$
 
@@ -190,7 +213,8 @@ Isolation does not intrinsically accelerate or retard ordinary local time.
 
 For a clock in Typical Spacetime and an otherwise-identical clock inside a uniform isolated region:
 
-$$  
+$$
+  
 dt_{\mathrm{Typical}}
 
 dt_{\mathrm{Isolated}}  
@@ -201,31 +225,31 @@ When ordinary relativistic and gravitational effects are neglected.
 Consequently:
 
 - mechanical clocks continue normally;
-    
+
 - metabolism continues normally;
-    
+
 - chemical reactions continue normally;
-    
+
 - computer clocks continue normally;
-    
+
 - batteries discharge according to ordinary elapsed time;
-    
+
 - crew duty periods remain measured conventionally.
-    
 
-Isolation changes **spatial progression per unit temporal progression**, rather than temporal progression itself.
+Isolation changes __spatial progression per unit temporal progression__, rather than temporal progression itself.
 
-A universal operational time such as **IMT** can therefore remain meaningful across isolated infrastructure.
+A universal operational time such as __IMT__ can therefore remain meaningful across isolated infrastructure.
 
 ---
 
 #### 3. Physical and Effective Velocity
 
-A distinction must be maintained between **physical velocity** and **effective spatial translation**.
+A distinction must be maintained between __physical velocity__ and __effective spatial translation__.
 
 Let:
 
-$$  
+$$
+  
 \mathbf v  
 $$
 
@@ -235,7 +259,8 @@ It is effectively the velocity that the same mechanical state would produce in T
 
 Let:
 
-$$  
+$$
+  
 \mathbf V  
 $$
 
@@ -243,7 +268,8 @@ Represent effective translation through Typical-Spacetime spatial coordinates.
 
 Then:
 
-$$  
+$$
+  
 \boxed{  
 \mathbf V=N\mathbf v  
 }  
@@ -251,7 +277,8 @@ $$
 
 Or:
 
-$$  
+$$
+  
 \boxed{  
 v_{\mathrm{eff}}=Nv  
 }  
@@ -261,13 +288,15 @@ An object at CIR (1:2000) therefore undergoes 2,000 times as much spatial progre
 
 Effective superluminal motion occurs whenever:
 
-$$  
+$$
+  
 Nv>c  
 $$
 
 Even though:
 
-$$  
+$$
+  
 v<c  
 $$
 
@@ -279,7 +308,8 @@ No massive object is required to acquire conventional physical velocity greater 
 
 For a constant physical velocity (v), constant Isolation magnitude (N), and route length (D):
 
-$$  
+$$
+  
 \boxed{  
 T=\frac{D}{Nv}  
 }  
@@ -289,13 +319,15 @@ Hence transit time depends independently upon propulsion and Isolation.
 
 Two spacecraft using the same (1:N) conduit will not necessarily traverse it in the same time if:
 
-$$  
+$$
+  
 v_1\neq v_2  
 $$
 
 For varying physical velocity:
 
-$$  
+$$
+  
 \boxed{  
 D=\int Nv,dt  
 }  
@@ -303,7 +335,8 @@ $$
 
 And for a spatially varying Isolation field:
 
-$$  
+$$
+  
 \boxed{  
 T=  
 \int  
@@ -319,24 +352,27 @@ Where (ds) is an infinitesimal section of Typical-Spacetime geometric distance.
 
 A useful engineering quantity is:
 
-$$  
+$$
+  
 \boxed{  
 D_I=  
 \int\frac{ds}{N(s)}  
 }  
 $$
 
-Where (D_I) is the **Isolation-adjusted distance**.
+Where (D_I) is the __Isolation-adjusted distance__.
 
 For a uniform field:
 
-$$  
+$$
+  
 D_I=\frac{D}{N}  
 $$
 
 Transit time can consequently be written:
 
-$$  
+$$
+  
 T=\frac{D_I}{v}  
 $$
 
@@ -344,7 +380,8 @@ This does not mean that the geometric separation of the endpoints has physically
 
 The ordinary route distance remains:
 
-$$  
+$$
+  
 D=\int ds  
 $$
 
@@ -360,7 +397,8 @@ Isolation alone does not change an object's conventional momentum.
 
 Absent an ordinary mechanical force or some separately-defined boundary interaction:
 
-$$  
+$$
+  
 \boxed{  
 \frac{d\mathbf p}{dt}=0  
 }  
@@ -370,7 +408,8 @@ During a CIR transition.
 
 Consequently, changing:
 
-$$  
+$$
+  
 N_1\rightarrow N_2  
 $$
 
@@ -378,13 +417,15 @@ Does not convert effective velocity into physical velocity.
 
 If the physical velocity before the transition is:
 
-$$  
+$$
+  
 \mathbf v_1  
 $$
 
 Then:
 
-$$  
+$$
+  
 \boxed{  
 \mathbf v_2=\mathbf v_1  
 }  
@@ -392,19 +433,22 @@ $$
 
 While:
 
-$$  
+$$
+  
 \mathbf V_1=N_1\mathbf v  
 $$
 
 And:
 
-$$  
+$$
+  
 \mathbf V_2=N_2\mathbf v  
 $$
 
 Therefore:
 
-$$  
+$$
+  
 \boxed{  
 \frac{V_2}{V_1}
 
@@ -412,7 +456,7 @@ $$
 }  
 $$
 
-A ship travelling effectively at thousands of (c) within a strong Isolation field does **not** retain that effective superluminal velocity when returned to Typical Spacetime.
+A ship travelling effectively at thousands of (c) within a strong Isolation field does __not__ retain that effective superluminal velocity when returned to Typical Spacetime.
 
 Its effective translation simply falls to that appropriate for its surviving physical velocity.
 
@@ -422,7 +466,8 @@ Its effective translation simply falls to that appropriate for its surviving phy
 
 For non-relativistic physical motion:
 
-$$  
+$$
+  
 \boxed{  
 E_k=\frac12mv^2  
 }  
@@ -430,13 +475,15 @@ $$
 
 Rather than:
 
-$$  
+$$
+  
 \frac12m(Nv)^2  
 $$
 
 Where relativistic mechanics become relevant:
 
-$$  
+$$
+  
 \gamma(v)
 
 \frac{1}  
@@ -455,13 +502,15 @@ The energy required to establish and maintain (N) belongs to the Isolation field
 
 For:
 
-$$  
+$$
+  
 \mathbf V=N\mathbf v  
 $$
 
 The effective acceleration is:
 
-$$  
+$$
+  
 \mathbf A
 
 \frac{D\mathbf V}{Dt}  
@@ -469,7 +518,8 @@ $$
 
 Therefore:
 
-$$  
+$$
+  
 \boxed{  
 \mathbf A
 
@@ -481,7 +531,8 @@ $$
 
 Where:
 
-$$  
+$$
+  
 \mathbf a=\frac{D\mathbf v}{Dt}  
 $$
 
@@ -489,13 +540,15 @@ Is physical acceleration.
 
 Using:
 
-$$  
+$$
+  
 N=e^\chi  
 $$
 
 The relationship may also be written:
 
-$$  
+$$
+  
 \boxed{  
 \mathbf A
 
@@ -522,7 +575,8 @@ Crew loading remains associated principally with physical acceleration (\mathbf 
 
 Isolation magnitude is represented as a scalar field:
 
-$$  
+$$
+  
 \boxed{  
 N=N(\mathbf x,t)  
 }  
@@ -530,7 +584,8 @@ $$
 
 Equivalently:
 
-$$  
+$$
+  
 \chi=\chi(\mathbf x,t)  
 $$
 
@@ -545,13 +600,13 @@ Consequently, two different CIR values cannot independently occupy exactly the s
 An object may experience a changing CIR in two different ways:
 
 1. the field changes around the object;
-    
+
 2. the object moves through a spatial field gradient.
-    
 
 Both are represented by the material derivative:
 
-$$  
+$$
+  
 \boxed{  
 \frac{D\chi}{Dt}
 
@@ -563,13 +618,15 @@ $$
 
 Where:
 
-$$  
+$$
+  
 \mathbf V=N\mathbf v  
 $$
 
 The same relation for (N) is:
 
-$$  
+$$
+  
 \boxed{  
 \frac{DN}{Dt}
 
@@ -589,7 +646,8 @@ Two independent quantities are important.
 
 The first is total mismatch:
 
-$$  
+$$
+  
 \boxed{  
 \Delta\chi
 
@@ -601,7 +659,8 @@ $$
 
 The second is experienced transition rate:
 
-$$  
+$$
+  
 \boxed{  
 \Gamma
 
@@ -625,13 +684,15 @@ A synchronisation lock avoids exposing matter directly to an excessive CIR misma
 
 Instead of permitting:
 
-$$  
+$$
+  
 N_1\rightarrow N_2  
 $$
 
 As a discontinuous transition, the surrounding volume is changed continuously:
 
-$$  
+$$
+  
 N_1  
 \rightarrow  
 N_1+\delta N  
@@ -643,13 +704,15 @@ $$
 
 The objective is to keep:
 
-$$  
+$$
+  
 \Delta\chi  
 $$
 
 And:
 
-$$  
+$$
+  
 \left|  
 \frac{D\chi}{Dt}  
 \right|  
@@ -667,7 +730,8 @@ The associated IGICs provide the short-duration power necessary to achieve this 
 
 A mathematically instantaneous transition:
 
-$$  
+$$
+  
 N_1\rightarrow N_2  
 $$
 
@@ -675,7 +739,8 @@ Would constitute a discontinuity.
 
 In such an idealisation:
 
-$$  
+$$
+  
 \left|  
 \frac{DN}{Dt}  
 \right|  
@@ -690,7 +755,8 @@ A field collapse does not impart the previous effective velocity (N_1v) to matte
 
 Instead:
 
-$$  
+$$
+  
 N_1v  
 \rightarrow  
 N_2v  
@@ -706,7 +772,8 @@ Any destructive effect arises from chronospatial transition physics rather than 
 
 Consider matter travelling at physical velocity:
 
-$$  
+$$
+  
 v  
 $$
 
@@ -714,25 +781,29 @@ Through Typical Spacetime.
 
 On entering a pre-existing (1:N) field, and assuming no ordinary mechanical impulse occurs:
 
-$$  
+$$
+  
 v_{\mathrm{after}}=v_{\mathrm{before}}  
 $$
 
 Its effective translation changes from:
 
-$$  
+$$
+  
 V=v  
 $$
 
 To:
 
-$$  
+$$
+  
 V=Nv  
 $$
 
 Thus:
 
-$$  
+$$
+  
 \boxed{  
 1:1\rightarrow1:N  
 \quad\Rightarrow\quad  
@@ -742,7 +813,8 @@ $$
 
 The inverse transition gives:
 
-$$  
+$$
+  
 \boxed{  
 1:N\rightarrow1:1  
 \quad\Rightarrow\quad  
@@ -758,23 +830,26 @@ Isolation never converts (Nv) into stored conventional momentum.
 
 Because:
 
-$$  
+$$
+  
 N=N(\mathbf x,t)  
 $$
 
 Overlapping Isolation fields must resolve into one resultant local CIR.
 
-CIR values themselves should therefore **not** be treated as directly additive or multiplicative.
+CIR values themselves should therefore __not__ be treated as directly additive or multiplicative.
 
 In particular, neither:
 
-$$  
+$$
+  
 N_{\mathrm{result}}=N_1+N_2  
 $$
 
 Nor:
 
-$$  
+$$
+  
 N_{\mathrm{result}}=N_1N_2  
 $$
 
@@ -784,7 +859,8 @@ Instead, Isolation generators should be understood as contributing source terms 
 
 Schematically:
 
-$$  
+$$
+  
 \boxed{  
 \mathcal F[\chi]
 
@@ -795,11 +871,10 @@ $$
 Where:
 
 - (\mathcal F) represents the presently-undefined dynamics of the Isolation field;
-    
+
 - (S_i) represents the influence of generator (i);
-    
+
 - (\chi) is the single resultant chronospatial field.
-    
 
 The operator (\mathcal F) need not be linear.
 
@@ -809,7 +884,8 @@ The operator (\mathcal F) need not be linear.
 
 Where neighbouring generator systems have similar target CIRs:
 
-$$  
+$$
+  
 \Delta\chi\ll1  
 $$
 
@@ -821,7 +897,8 @@ This is the normal operating principle of a RIC.
 
 Multiple rings collectively maintain:
 
-$$  
+$$
+  
 N(\mathbf x,t)\approx N_{\mathrm{target}}  
 $$
 
@@ -829,7 +906,8 @@ Rather than each ring independently imposing the complete target CIR upon the sa
 
 For sufficiently small deviations around an established operating point, a linearised engineering approximation may be possible:
 
-$$  
+$$
+  
 \delta\chi  
 \approx  
 \sum_i\delta\chi_i  
@@ -843,7 +921,8 @@ This is an approximation around a common state, not a fundamental rule that CIRs
 
 Where two generator systems demand substantially different values:
 
-$$  
+$$
+  
 \Delta\chi\gg0  
 $$
 
@@ -851,31 +930,36 @@ The disagreement must be resolved through a transition region, generator dominan
 
 A transition from:
 
-$$  
+$$
+  
 N_1  
 $$
 
 To:
 
-$$  
+$$
+  
 N_2  
 $$
 
 Necessarily creates a spatial gradient:
 
-$$  
+$$
+  
 \nabla\chi  
 $$
 
 Large differences occurring across short distances correspond to large:
 
-$$  
+$$
+  
 |\nabla\chi|  
 $$
 
 Matter traversing such an interface experiences:
 
-$$  
+$$
+  
 \frac{D\chi}{Dt}
 
 \frac{\partial\chi}{\partial t}  
@@ -891,7 +975,8 @@ Consequently, steep interfaces can become hazardous even when neither field is c
 
 A physically useful but not yet fundamental constitutive model is to associate energetic cost with strong chronospatial gradients:
 
-$$  
+$$
+  
 \boxed{  
 u_\nabla
 
@@ -903,15 +988,14 @@ $$
 Where:
 
 - (u_\nabla) is energy density associated with maintaining the gradient;
-    
+
 - (\kappa_\chi) is an empirical Isolation-field constant.
-    
 
 Under this model, an arbitrarily sharp boundary between radically different CIRs becomes energetically expensive.
 
 This provides a natural physical reason for Isolation fields to form finite transition layers rather than perfect mathematical steps.
 
-This term is a **provisional field model**, not a consequence required by the fundamental CIR definition.
+This term is a __provisional field model__, not a consequence required by the fundamental CIR definition.
 
 ---
 
@@ -921,7 +1005,8 @@ Electromagnetic radiation is subject to Isolation.
 
 Within a uniform (1:N) region, its effective spatial progression relative to Typical-Spacetime coordinates is:
 
-$$  
+$$
+  
 \boxed{  
 c_{\mathrm{eff}}=Nc  
 }  
@@ -929,7 +1014,8 @@ $$
 
 For a uniform route of length (D):
 
-$$  
+$$
+  
 \boxed{  
 T_\gamma
 
@@ -939,7 +1025,8 @@ $$
 
 For a non-uniform field:
 
-$$  
+$$
+  
 \boxed{  
 T_\gamma
 
@@ -957,7 +1044,8 @@ The integral is evaluated along the actual ray trajectory through the changing f
 
 Define:
 
-$$  
+$$
+  
 \boxed{  
 d\ell_I=\frac{ds}{N}  
 }  
@@ -965,19 +1053,21 @@ $$
 
 Then electromagnetic propagation may be written:
 
-$$  
+$$
+  
 \boxed{  
 d\ell_I=c,dt  
 }  
 $$
 
-This is an **Isolation-adjusted propagation distance**, not a claim that geometric space has physically contracted.
+This is an __Isolation-adjusted propagation distance__, not a claim that geometric space has physically contracted.
 
 It is the electromagnetic equivalent of (D_I).
 
 Accordingly:
 
-$$  
+$$
+  
 \boxed{  
 \ell_I
 
@@ -987,7 +1077,8 @@ $$
 
 And:
 
-$$  
+$$
+  
 T_\gamma=\frac{\ell_I}{c}  
 $$
 
@@ -997,7 +1088,8 @@ $$
 
 For purposes of ray tracing, Isolation can be assigned an effective optical index:
 
-$$  
+$$
+  
 \boxed{  
 n_I=\frac1N  
 }  
@@ -1007,7 +1099,8 @@ This does not mean an Isolation field behaves microscopically like a dielectric 
 
 It means that electromagnetic travel time can be written in the familiar optical form:
 
-$$  
+$$
+  
 \boxed{  
 T_\gamma
 
@@ -1018,7 +1111,8 @@ $$
 
 Ray paths may therefore be determined through the stationary-time principle:
 
-$$  
+$$
+  
 \boxed{  
 \delta  
 \int  
@@ -1036,7 +1130,8 @@ Spatial CIR gradients consequently bend light.
 
 For an ideal planar boundary between constant regions (N_1) and (N_2), geometric optics gives the Snell-like relation:
 
-$$  
+$$
+  
 n_1\sin\theta_1
 
 n_2\sin\theta_2  
@@ -1044,13 +1139,15 @@ $$
 
 Since:
 
-$$  
+$$
+  
 n_i=\frac1{N_i}  
 $$
 
 This becomes:
 
-$$  
+$$
+  
 \boxed{  
 \frac{\sin\theta_1}{N_1}
 
@@ -1070,7 +1167,8 @@ Real engineered fields are expected to possess finite gradients, so the trajecto
 
 The effective index:
 
-$$  
+$$
+  
 n_I=\frac1N  
 $$
 
@@ -1079,19 +1177,19 @@ Determines travel-time geometry but does not by itself determine electromagnetic
 Consequently, CIR alone does not uniquely determine:
 
 - Fresnel reflection;
-    
-- absorption;
-    
-- scattering;
-    
-- polarisation conversion.
-    
 
-The preferred engineering model is that a smooth, stable Isolation gradient is approximately **impedance matched**, producing predominantly refraction rather than strong intrinsic reflection.
+- absorption;
+
+- scattering;
+
+- polarisation conversion.
+
+The preferred engineering model is that a smooth, stable Isolation gradient is approximately __impedance matched__, producing predominantly refraction rather than strong intrinsic reflection.
 
 In the adiabatic limit:
 
-$$  
+$$
+  
 R\rightarrow0  
 $$
 
@@ -1107,13 +1205,15 @@ The exact coefficients remain undefined.
 
 For a time-independent Isolation field:
 
-$$  
+$$
+  
 \frac{\partial N}{\partial t}=0  
 $$
 
 Photon frequency is taken to be conserved:
 
-$$  
+$$
+  
 \boxed{  
 \nu_2=\nu_1  
 }  
@@ -1121,7 +1221,8 @@ $$
 
 Consequently:
 
-$$  
+$$
+  
 E=h\nu  
 $$
 
@@ -1131,7 +1232,8 @@ A static Isolation boundary therefore does not intrinsically redshift or blueshi
 
 The coordinate wavelength within a uniform field is:
 
-$$  
+$$
+  
 \lambda_{\mathrm{coord}}
 
 \frac{Nc}{\nu}  
@@ -1139,7 +1241,8 @@ $$
 
 Thus:
 
-$$  
+$$
+  
 \boxed{  
 \lambda_{\mathrm{coord}}
 
@@ -1149,7 +1252,8 @@ $$
 
 Using Isolation-adjusted optical distance:
 
-$$  
+$$
+  
 \lambda_I
 
 \frac{\lambda_{\mathrm{coord}}}{N}  
@@ -1157,7 +1261,8 @@ $$
 
 And therefore:
 
-$$  
+$$
+  
 \boxed{  
 \lambda_I=\lambda_0  
 }  
@@ -1171,7 +1276,8 @@ This allows electromagnetic frequency and local wave structure to remain ordinar
 
 Where:
 
-$$  
+$$
+  
 \frac{\partial N}{\partial t}\neq0  
 $$
 
@@ -1181,7 +1287,8 @@ Photon frequency need not remain conserved.
 
 A photon may exchange energy with the changing Isolation field:
 
-$$  
+$$
+  
 \boxed{  
 \Delta E_\gamma
 
@@ -1194,15 +1301,14 @@ The corresponding energy must be exchanged with the field or its generating mach
 Moving or rapidly changing Isolation boundaries can therefore produce:
 
 - redshift;
-    
+
 - blueshift;
-    
+
 - spectral broadening;
-    
+
 - brightness changes;
-    
+
 - time-dependent optical distortion.
-    
 
 The precise frequency-shift law remains undefined pending a microscopic electromagnetic boundary theory.
 
@@ -1212,13 +1318,15 @@ The precise frequency-shift law remains undefined pending a microscopic electrom
 
 A uniform Isolation field has:
 
-$$  
+$$
+  
 \nabla N\approx0  
 $$
 
 And:
 
-$$  
+$$
+  
 \frac{\partial N}{\partial t}\approx0  
 $$
 
@@ -1227,15 +1335,14 @@ Under these conditions, objects entirely sharing the same CIR should appear visu
 A crew member aboard an isolated spacecraft should not intrinsically observe:
 
 - stretched rooms;
-    
+
 - spatially compressed equipment;
-    
+
 - anomalous Lorentz contraction corresponding to (Nv);
-    
+
 - clocks visibly accelerating or slowing;
-    
+
 - automatic colour shifting caused merely by high (N).
-    
 
 Ordinary relativistic visual effects remain associated with physical velocity (v).
 
@@ -1252,29 +1359,30 @@ Light originating outside an Isolation field must traverse its CIR gradient befo
 Consequently, external images may exhibit:
 
 - angular displacement;
-    
+
 - magnification;
-    
+
 - demagnification;
-    
+
 - focusing;
-    
+
 - defocusing;
-    
+
 - caustics;
-    
+
 - partial optical exclusion at extreme incidence angles.
-    
 
 These effects depend upon:
 
-$$  
+$$
+  
 N(\mathbf x,t)  
 $$
 
 And especially:
 
-$$  
+$$
+  
 \nabla N  
 $$
 
@@ -1284,7 +1392,8 @@ Off-centre observers and irregular fields may experience substantial distortion.
 
 A static field should not intrinsically alter colour because:
 
-$$  
+$$
+  
 \nu=\mathrm{constant}  
 $$
 
@@ -1299,19 +1408,19 @@ A perfectly stable field in empty space may therefore be optically invisible exc
 Its boundary is primarily detectable through:
 
 - lensing;
-    
+
 - apparent displacement of background objects;
-    
+
 - focusing or defocusing;
-    
+
 - reflection or scattering from imperfect transitions;
-    
+
 - frequency changes where the boundary is moving or unstable.
-    
 
 A fluctuating field:
 
-$$  
+$$
+  
 \frac{\partial N}{\partial t}\neq0  
 $$
 
@@ -1329,7 +1438,8 @@ They observe photons emitted or reflected at earlier times and propagated throug
 
 For a general ray:
 
-$$  
+$$
+  
 \boxed{  
 t_{\mathrm{obs}}-t_{\mathrm{emit}}
 
@@ -1343,7 +1453,8 @@ Where (\gamma) is the photon's actual trajectory.
 
 If most of the path after leaving the spacecraft's field is through Typical Spacetime:
 
-$$  
+$$
+  
 t_{\mathrm{obs}}  
 \approx  
 t_{\mathrm{exit}}  
@@ -1361,7 +1472,8 @@ Consider the simplified case where photons emitted by an effectively superlumina
 
 The observer receives photons according to:
 
-$$  
+$$
+  
 \boxed{  
 t_o
 
@@ -1374,15 +1486,15 @@ $$
 Where:
 
 - (t_e) is emission time;
-    
+
 - (t_o) is observation time;
-    
+
 - (R(t_e)) is the distance from the source's emission position to the observer.
-    
 
 Let:
 
-$$  
+$$
+  
 \hat{\mathbf n}  
 $$
 
@@ -1390,7 +1502,8 @@ Point from the source toward the observer.
 
 Then:
 
-$$  
+$$
+  
 \boxed{  
 \frac{dt_o}{dt_e}
 
@@ -1401,13 +1514,15 @@ $$
 
 For ordinary subluminal motion:
 
-$$  
+$$
+  
 \frac{dt_o}{dt_e}>0  
 $$
 
 For sufficiently large effective motion toward the observer:
 
-$$  
+$$
+  
 \mathbf V\cdot\hat{\mathbf n}>c  
 $$
 
@@ -1415,7 +1530,8 @@ The mapping can become non-monotonic.
 
 At:
 
-$$  
+$$
+  
 \boxed{  
 \mathbf V\cdot\hat{\mathbf n}=c  
 }  
@@ -1428,15 +1544,14 @@ Multiple emission times can consequently correspond to the same observation time
 An effectively superluminal spacecraft may therefore:
 
 - remain unseen until its radiation reaches an observer;
-    
+
 - appear suddenly;
-    
+
 - appear at more than one apparent position;
-    
+
 - exhibit apparent image motion unrelated to its instantaneous physical trajectory;
-    
+
 - present portions of its visual history in a non-intuitive order.
-    
 
 This does not imply backwards temporal propagation.
 
@@ -1450,7 +1565,8 @@ A spacecraft carrying a moving Isolation field may possess an effective field-bo
 
 External photons attempting to approach from behind propagate through Typical Spacetime at:
 
-$$  
+$$
+  
 c  
 $$
 
@@ -1458,35 +1574,40 @@ If the relevant rear boundary is receding from those photons at an effective nor
 
 A condition of the form:
 
-$$  
+$$
+  
 V_{\mathrm{boundary},n}\geq c  
 $$
 
-Therefore produces an **external-information horizon** for that direction.
+Therefore produces an __external-information horizon__ for that direction.
 
 New external light from behind cannot continuously enter the field.
 
 This does not prevent internally generated photons from travelling toward the rear boundary because within the isolated region:
 
-$$  
+$$
+  
 c_{\mathrm{eff}}=Nc  
 $$
 
 While the spacecraft itself translates at:
 
-$$  
+$$
+  
 V=Nv  
 $$
 
 Since:
 
-$$  
+$$
+  
 v<c  
 $$
 
 It follows that:
 
-$$  
+$$
+  
 Nc>Nv  
 $$
 
@@ -1498,7 +1619,8 @@ Thus internal light can still outrun the spacecraft within its own field.
 
 Isolation permits:
 
-$$  
+$$
+  
 V>c  
 $$
 
@@ -1506,7 +1628,8 @@ But does not permit negative temporal progression.
 
 All physical causal evolution obeys:
 
-$$  
+$$
+  
 \boxed{  
 dt>0  
 }  
@@ -1514,13 +1637,15 @@ $$
 
 For causally related events:
 
-$$  
+$$
+  
 A\rightarrow B  
 $$
 
 Isolation cannot transform their ordering into:
 
-$$  
+$$
+  
 B\rightarrow A  
 $$
 
@@ -1536,19 +1661,22 @@ This preferred temporal structure allows superluminal effective translation with
 
 A Resonant Isolated Conduit is a distributed Isolation field:
 
-$$  
+$$
+  
 N=N(\mathbf x,t)  
 $$
 
 Maintained near:
 
-$$  
+$$
+  
 N_{\mathrm{target}}  
 $$
 
 Each ring measures local Isolation and contributes whatever field-generation effort is required to maintain:
 
-$$  
+$$
+  
 \boxed{  
 N(\mathbf x,t)  
 \approx  
@@ -1570,7 +1698,8 @@ Electromagnetic radiation propagating through a RIC benefits from the same CIR a
 
 For a uniform conduit:
 
-$$  
+$$
+  
 T_\gamma
 
 \frac{D}{Nc}  
@@ -1578,7 +1707,8 @@ $$
 
 For a route partly inside and partly outside:
 
-$$  
+$$
+  
 \boxed{  
 T_\gamma
 
@@ -1589,22 +1719,22 @@ $$
 
 A relatively short Typical-Spacetime segment can dominate transmission latency because its CIR is:
 
-$$  
+$$
+  
 N=1  
 $$
 
 This applies to:
 
 - radio;
-    
+
 - optical communication;
-    
+
 - radar;
-    
+
 - laser transmission;
-    
+
 - gamma-ray power transmission.
-    
 
 Boundary refraction must additionally be considered wherever beams enter, leave, or bypass sections of the conduit.
 
@@ -1618,13 +1748,15 @@ Electrical signalling and power transmission depend upon electromagnetic field p
 
 A conductor bridging:
 
-$$  
+$$
+  
 N_1  
 $$
 
 And:
 
-$$  
+$$
+  
 N_2  
 $$
 
@@ -1633,15 +1765,14 @@ Therefore couples systems with different chronospatial propagation behaviour.
 Specialised chronospatial-interface circuitry is required for systems such as:
 
 - power cables;
-    
+
 - data buses;
-    
+
 - sensors;
-    
+
 - control lines;
-    
+
 - waveguides.
-    
 
 The exact electromagnetic interface model remains a separate engineering problem.
 
@@ -1651,13 +1782,15 @@ The exact electromagnetic interface model remains a separate engineering problem
 
 For:
 
-$$  
+$$
+  
 \mathrm{CIR}=1:N  
 $$
 
 The principal Isolation equations are:
 
-$$  
+$$
+  
 \boxed{  
 \mathbf V=N\mathbf v  
 }  
@@ -1665,7 +1798,8 @@ $$
 
 Physical motion maps onto effective spatial translation.
 
-$$  
+$$
+  
 \boxed{  
 T=\frac{D}{Nv}  
 }  
@@ -1673,7 +1807,8 @@ $$
 
 Transit time follows from physical velocity and Isolation magnitude.
 
-$$  
+$$
+  
 \boxed{  
 D=\int Nv,dt  
 }  
@@ -1681,7 +1816,8 @@ $$
 
 Distance follows from integrated effective translation.
 
-$$  
+$$
+  
 \boxed{  
 T
 
@@ -1692,7 +1828,8 @@ $$
 
 Transit through a non-uniform field depends upon the local CIR.
 
-$$  
+$$
+  
 \boxed{  
 D_I
 
@@ -1702,7 +1839,8 @@ $$
 
 Isolation-adjusted distance measures the effective traversal requirement.
 
-$$  
+$$
+  
 \boxed{  
 \chi=\ln N  
 }  
@@ -1710,7 +1848,8 @@ $$
 
 Chronospatial separation expresses CIR logarithmically.
 
-$$  
+$$
+  
 \boxed{  
 \Delta\chi
 
@@ -1725,7 +1864,8 @@ $$
 
 Relative mismatch measures proportional difference between CIRs.
 
-$$  
+$$
+  
 \boxed{  
 \frac{D\chi}{Dt}
 
@@ -1737,7 +1877,8 @@ $$
 
 Experienced transition rate includes both temporal field change and motion through a gradient.
 
-$$  
+$$
+  
 \boxed{  
 \mathbf A
 
@@ -1749,7 +1890,8 @@ $$
 
 Effective acceleration contains physical and chronospatial components.
 
-$$  
+$$
+  
 \boxed{  
 c_{\mathrm{eff}}=Nc  
 }  
@@ -1757,7 +1899,8 @@ $$
 
 Electromagnetic radiation shares the Isolation-enhanced spatial progression.
 
-$$  
+$$
+  
 \boxed{  
 T_\gamma
 
@@ -1768,7 +1911,8 @@ $$
 
 Photon transit time follows from the CIR along its path.
 
-$$  
+$$
+  
 \boxed{  
 n_I=\frac1N  
 }  
@@ -1776,7 +1920,8 @@ $$
 
 The effective optical index permits geometric-optical treatment.
 
-$$  
+$$
+  
 \boxed{  
 \delta  
 \int\frac{ds}{N}
@@ -1795,7 +1940,8 @@ The mathematical model can be reduced to four principles.
 
 ##### I. Temporal progression is not multiplied
 
-$$  
+$$
+  
 dt_{\mathrm{isolated}}
 
 dt_{\mathrm{typical}}  
@@ -1805,7 +1951,8 @@ Apart from conventional relativistic or gravitational effects, ordinary local te
 
 ##### II. Spatial progression is multiplied
 
-$$  
+$$
+  
 \mathbf V=N\mathbf v  
 $$
 
@@ -1813,13 +1960,15 @@ Isolation changes the amount of spatial progression associated with a physical s
 
 ##### III. Momentum is not multiplied
 
-$$  
+$$
+  
 \mathbf p=\mathbf p(\mathbf v)  
 $$
 
 Rather than:
 
-$$  
+$$
+  
 \mathbf p=\mathbf p(N\mathbf v)  
 $$
 
@@ -1827,7 +1976,8 @@ Effective translation does not become stored conventional momentum.
 
 ##### IV. Each point possesses one resultant Isolation state
 
-$$  
+$$
+  
 N=N(\mathbf x,t)  
 $$
 
@@ -1839,13 +1989,14 @@ These principles separate Isolation from ordinary acceleration, conventional tim
 
 #### 37. Gravitational Anchoring
 
-Physical velocity is always measured relative to some reference. For an isolated object, that reference is the field's **anchor frame**: the non-rotating frame of the body whose gravity dominates where the field was established. Near a planet or moon, that is the planet or moon. In interplanetary space, it is the star. Between the stars, it is the local stellar drift.
+Physical velocity is always measured relative to some reference. For an isolated object, that reference is the field's __anchor frame__: the non-rotating frame of the body whose gravity dominates where the field was established. Near a planet or moon, that is the planet or moon. In interplanetary space, it is the star. Between the stars, it is the local stellar drift.
 
 An isolation field keeps its anchor frame for as long as it is maintained, however far its effective translation carries it.
 
 When the field collapses, the object's physical velocity is re-expressed relative to the anchor frame of its new location:
 
-$$  
+$$
+  
 \boxed{  
 \mathbf v_{\mathrm{after}}=\mathbf v_{\mathrm{before}}  
 \quad\text{(each relative to its own anchor frame)}  
@@ -1856,15 +2007,17 @@ An object therefore arrives with its velocity relative to its new surroundings, 
 
 If (\Delta\mathbf u) is the velocity of the new anchor frame relative to the old one, the momentum difference:
 
-$$  
+$$
+  
 \Delta\mathbf p=m\,\Delta\mathbf u  
 $$
 
 is exchanged with the gravitating bodies themselves, much as in a gravitational slingshot. This is the "separately-defined boundary interaction" anticipated in §6.1.
 
-The exchange is not perfectly efficient. The generating machinery must supply an **anchoring loss**:
+The exchange is not perfectly efficient. The generating machinery must supply an __anchoring loss__:
 
-$$  
+$$
+  
 \boxed{  
 E_{\mathrm{anchor}}=\varepsilon\,\tfrac12 m\left|\Delta\mathbf u\right|^2  
 }  
@@ -1872,7 +2025,8 @@ $$
 
 Empirically:
 
-$$  
+$$
+  
 \varepsilon\approx10^{-3}  
 $$
 
@@ -1884,11 +2038,12 @@ For two planets whose orbital velocities differ by 20 km/s, a 500-tonne vessel m
 
 #### 38. Isolation Boundaries and the Environmental Limit
 
-Isolation cannot be sustained within a gravitating body's **isolation boundary**. That boundary is the top of the body's atmosphere, its surface where it has no atmosphere, or a star's photosphere.
+Isolation cannot be sustained within a gravitating body's __isolation boundary__. That boundary is the top of the body's atmosphere, its surface where it has no atmosphere, or a star's photosphere.
 
 Beyond the boundary, the greatest sustainable chronospatial separation rises with distance:
 
-$$  
+$$
+  
 \boxed{  
 \chi_{\mathrm{env}}=\ln\frac{d_b}{\lambda_I}  
 }  
@@ -1897,9 +2052,8 @@ $$
 Where:
 
 - (d_b) is the distance from the nearest isolation boundary;
-    
-- (\lambda_I\approx1.4\ \mathrm{km}) is the **isolation length**, an empirical constant.
-    
+
+- (\lambda_I\approx1.4\ \mathrm{km}) is the __isolation length__, an empirical constant.
 
 | Distance from the nearest boundary | Greatest sustainable χ | CIR |
 | --- | --- | --- |
@@ -1917,9 +2071,10 @@ No generator, however powerful, can isolate within an atmosphere. Every approach
 
 #### 39. Slew Rate and Stopping Distance
 
-A generator can change its own uniform field no faster than its **slew rate**:
+A generator can change its own uniform field no faster than its __slew rate__:
 
-$$  
+$$
+  
 \left|\frac{d\chi}{dt}\right|\leq\Gamma_{\max},\qquad\Gamma_{\max}\approx0.7\ \mathrm{s^{-1}}  
 $$
 
@@ -1927,7 +2082,8 @@ This differs from the hazardous transitions of §§9–12. Those arise when an o
 
 Approaching a body lowers (\chi_{\mathrm{env}}) at the rate (V/d_b), and the field must keep pace. Effective translation is therefore limited by the distance to the nearest boundary:
 
-$$  
+$$
+  
 \boxed{  
 V\leq\Gamma_{\max}\,d_b  
 }  
@@ -1941,7 +2097,8 @@ An approaching vessel slows exponentially, falling by a factor of e roughly ever
 
 The power required to hold an isolation field rises exponentially with its chronospatial separation and in proportion to the mass it encloses:
 
-$$  
+$$
+  
 \boxed{  
 P_I=k_g\,P_0\,\frac{m}{m_0}\,e^{\alpha(\chi-\chi_0)}  
 }  
@@ -1951,13 +2108,15 @@ Where (k_g) is the drive's efficiency-grade factor, equal to 1 for a D-grade dri
 
 With the empirical constants:
 
-$$  
+$$
+  
 \alpha\approx1.25,\qquad P_0\approx5\ \mathrm{GW},\qquad m_0=500\ \mathrm{t},\qquad\chi_0=22  
 $$
 
 Equivalently:
 
-$$  
+$$
+  
 P_I\propto m\,N^{\alpha}  
 $$
 
@@ -1965,7 +2124,8 @@ Nearly all of this power is rejected as waste heat, so radiator capacity limits 
 
 The greatest separation a vessel's generator can hold from an available power (P) is:
 
-$$  
+$$
+  
 \chi_{\mathrm{gen}}=\chi_0+\frac1\alpha\ln\left(\frac{P}{k_g\,P_0}\,\frac{m_0}{m}\right)  
 $$
 
@@ -1973,7 +2133,8 @@ Each drive also carries the certified maximum of its size, and light craft are f
 
 The energy needed per unit of distance travelled is:
 
-$$  
+$$
+  
 \frac{E}{D}=\frac{P_I}{Nv}\propto\frac{m\,N^{\alpha-1}}{v}  
 $$
 
@@ -2001,46 +2162,46 @@ A 200,000-tonne freighter with a 50 GW stellarator can only reach about χ = 19.
 The following remain intentionally undefined:
 
 - the microscopic mechanism responsible for Isolation;
-    
+
 - the precise field equation (\mathcal F[\chi]);
-    
+
 - the generator-source term (S_i);
-    
+
 - the physical origin of the empirical energy law (§40);
-    
+
 - whether the provisional gradient-energy term is fundamental;
-    
+
 - maximum physically achievable CIR;
-    
+
 - detailed generator interference;
-    
+
 - field propagation and response speed;
-    
+
 - precise CMCE thresholds;
-    
+
 - VRE physics;
-    
+
 - electromagnetic impedance across CIR boundaries;
-    
+
 - exact reflection and scattering coefficients;
-    
+
 - exact frequency shifts at moving boundaries;
-    
+
 - the mechanism behind gravitational anchoring (§37) and isolation boundaries (§38);
-    
+
 - quantum systems spanning multiple CIRs;
-    
+
 - thermodynamic behaviour across extreme gradients;
-    
+
 - detailed black-body radiation across moving Isolation boundaries.
-    
 
 These may be developed independently without changing the authoritative CIR relationship:
 
-$$  
+$$
+  
 \boxed{  
 \mathbf V=N\mathbf v  
 }  
 $$
 
-The central physical distinction remains that **Isolation changes how physical motion maps onto spatial progression; it does not turn effective translation into conventional momentum or alter the ordinary forward progression of time.**
+The central physical distinction remains that __Isolation changes how physical motion maps onto spatial progression; it does not turn effective translation into conventional momentum or alter the ordinary forward progression of time.__

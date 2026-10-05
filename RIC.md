@@ -11,7 +11,7 @@ Ships travelling through a **RIC** therefore still require conventional propulsi
 
 The effective rate at which a ship can cover distance through a **RIC** therefore depends both on the **RIC**'s **CIR** and the ship's own local velocity. A faster ship travelling through the same **RIC** will reach its destination sooner than a slower ship.
 
-Ships require a **high-impulse isolation generator (HIIG)**-compatible **isolation drive** to use a conventional **RIC**, as they must first bring their own isolated space within a safe threshold of the **RIC** before they can safely enter it. Theoretically, any ship capable of maintaining a **CIR** within this threshold could freely move between a **RIC** and Typical Spacetime, though in practice this is strictly reserved for [Open RICs (ORICs)](#Open%20RICs%20\(ORICs\)) for safety reasons.
+Ships require a **high-impulse isolation generator (HIIG)**-compatible **isolation drive** to use a conventional **RIC**, as they must first bring their own isolation field within a safe threshold of the **RIC** before they can safely enter it. Theoretically, any ship capable of maintaining a **CIR** within this threshold could freely move between an **RIC** and Typical Spacetime, though in practice this is strictly reserved for [Open RICs (ORICs)](#Open%20RICs%20\(ORICs\)) for safety reasons.
 
 To understand how a **RIC** works, we will follow a theoretical ship wanting to use one.
 

@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "tabs": [
+    {
+      "kind": "note",
+      "path": "Loose/Technology/Isolation.md",
+      "mode": "live",
+      "cursor": 7981,
+      "scroll": 0.0,
+      "pinned": false,
+      "back": [
+        "Loose/Vault Index.md",
+        "Loose/Technology/Isolation.md",
+        "Loose/Culture/Violet.md",
+        "Loose/Events/Collapse of Pandora (1964).md",
+        "Loose/Events/The Violet Narcotics Scandal (1962).md",
+        "2026-10-05.md",
+        "Loose/Technology/Computer.md",
+        "Loose/Technology/Nuke.md"
+      ]
+    }
+  ],
+  "activeTab": 0,
+  "sidebar": {
+    "visible": true,
+    "pane": "files",
+    "width": 280,
+    "expanded": [
+      "_assets",
+      "Loose",
+      "Loose/Events",
+      "Loose/Technology"
+    ]
+  },
+  "inspector": {
+    "visible": false,
+    "view": "backlinks",
+    "width": 300
+  },
+  "recentlyClosed": [
+    {
+      "kind": "note",
+      "path": "RIC.md",
+      "cursor": 373,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
+      "kind": "image",
+      "path": "_assets/lilac.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    },
+    {
+      "kind": "image",
+      "path": "_assets/pandora.png",
+      "cursor": 0,
+      "scroll": 0.0,
+      "pinned": false
+    }
+  ],
+  "recentFiles": [
+    "Loose/Technology/Isolation.md",
+    "Loose/Technology/Nuke.md",
+    "Loose/Technology/Computer.md",
+    "2026-10-05.md",
+    "Loose/Events/The Violet Narcotics Scandal (1962).md",
+    "Loose/Events/Collapse of Pandora (1964).md",
+    "Loose/Culture/Violet.md",
+    "_assets/pandora.png",
+    "Loose/Vault Index.md",
+    "Loose/Technology/Spacecraft Propulsion.md",
+    "_assets/lilac.png",
+    "RIC.md",
+    "Technology.base"
+  ]
+}

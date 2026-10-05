@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "files": {
+    "newNoteLocation": "vaultRoot",
+    "attachmentLocation": "vaultRoot",
+    "trash": "vaultFolder",
+    "confirmDelete": true,
+    "excluded": []
+  },
+  "links": {
+    "style": "wiki",
+    "path": "shortest",
+    "updateOnRename": true
+  },
+  "editor": {
+    "defaultMode": "live",
+    "indentWithTabs": true,
+    "tabSize": 4,
+    "autoPairBrackets": true,
+    "autoPairMarkdown": true,
+    "smartLists": true,
+    "strictLineBreaks": false,
+    "showLineNumbers": false,
+    "spellcheck": true,
+    "vimMode": false,
+    "foldHeadings": true,
+    "foldIndent": true,
+    "autosaveDelayMs": 2000,
+    "backlinksInDocument": false
+  },
+  "properties": {
+    "types": {}
+  },
+  "dailyNotes": {
+    "folder": "",
+    "format": "YYYY-MM-DD",
+    "template": null
+  },
+  "templates": {
+    "folder": null,
+    "dateFormat": "YYYY-MM-DD",
+    "timeFormat": "HH:mm"
+  },
+  "startupNote": null,
+  "recovery": {
+    "intervalMinutes": 5,
+    "keepDays": 7,
+    "maxMegabytes": 100
+  }
+}
